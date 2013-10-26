@@ -20,4 +20,4 @@ Real time messaging service using geolocation &amp; firebase to place students i
 
 Good luck!
 
-Lucas, Jose, Kevin, Blake
+Lucas, Jose, Kelvin, Blake
