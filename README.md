@@ -7,11 +7,11 @@ Real time messaging service using geolocation &amp; firebase to place students i
 -------------------
 - Please use github's `issues` system on the right if you have .. issues.
 - Communication should be mostly done via in person or on facebook.
-- We are all going to be playing 'jack of all trades roles in this', learn as much of the web stack as you can!
+- We are all going to be playing `jack of all trades` roles in this, learn as much of the web stack as you can!
 
 ####Team checklist
 ------------------
-- To add code, `Fork` this repo → edit code → submit `pull` request here.
+- To add code, `Fork` this repo → edit code → submit a `pull` request.
 - `Star` this repo for publicity :)
 - Install the content in requirements.txt
 - Get comfortable with [javascript](http://www.w3schools.com/html/html5_geolocation.asp) and [flask](http://flask.pocoo.org/), a python backend framework
