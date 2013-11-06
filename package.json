@@ -1,0 +1,11 @@
+{
+    "name": "antchatter",
+    "version": "0.0.1",
+    "description": "Real time chat for university students",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Lucas Ou-Yang"
+}
