@@ -28,7 +28,6 @@ app.get('/', function(req, res) {
 var io = require('socket.io').listen(app.listen(port));
 console.log('Listening on port ' + port);
 
-
 // "io.sockets" referrs to all connected users.
 // "io.socket" refers just to the one socket which
 // has performed an action.
