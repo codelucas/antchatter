@@ -31,6 +31,7 @@ console.log('Listening on port ' + port);
 // "io.sockets" referrs to all connected users.
 // "io.socket" refers just to the one socket which
 // has performed an action.
+
 // The below code states that if any one of our client 
 // sockets makes a connection to the server, give a 
 // welcome message. Also, bind a reciever to that client so 
