@@ -11,15 +11,14 @@ html
         link(rel='icon', href='#{staticRoot}imgs/favicon.ico', type='image/x-icon')
         link(href='http://fonts.googleapis.com/css?family=Open+Sans', rel='stylesheet', type='text/css')
         style(type='text/css').
-            p { font-family: 'Open Sans', sans-serif; }
+            p, span { font-family: 'Open Sans', sans-serif; }
             h1, h2, h3, input, div { font-family: 'Open Sans', sans-serif; }
         block styles
     block body
-        script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
-        script(src='/socket.io/socket.io.js')
-        script(src='#{staticRoot}js/bootstrap.min.js')
-        script(src='#{staticRoot}js/chat.js') 
         block scripts
+            script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
+            script(src='/socket.io/socket.io.js')
+            script(src='#{staticRoot}js/bootstrap.min.js')
         //- Google Analytics: change UA-XXXXX-X to be your site's ID.
         script.
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=

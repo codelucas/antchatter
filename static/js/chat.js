@@ -1,56 +1,55 @@
-window.onload = function() {
+$(document).ready(function() {
+    // var nickname = ''; // We set it above! 
+    // var siteIp; var sitePort; var rootUrl;
     var messages = [];
-    var socket = io.connect('http://' + site.siteIp + ':' + site.sitePort);
-    var field = document.getElementById("field");
-    var sendButton = document.getElementById("send");
-    var content = document.getElementById("content");
-    var name = document.getElementById("name");
+    var socket = io.connect('http://' + siteIp + ':' + sitePort);
     var longitude;
     var latitude;
-    var roomName;
+    var univ = 'No University';
+    var $chat = $('#chat');
+    var $messageBox = $('#messageBox');
+    var $sendButton = $('#sendButton');
+    var start = true;
+
+    if (start) {
+        socket.emit('login', { nickname: nickname, lng:0, lat:0  }, function(data) {
+            $chat.append('<b>ERROR'+data+'</b>'); 
+        });
+        start = false;
+    }
+ 
+    $sendButton.on('click', function () {
+        // the function(data) callback only happens if err's occur
+        socket.emit('send_message', { message: $messageBox.val() }, function(data) {
+            if (data !== undefined)
+                displayMsg({ nickname:'error', body:data });
+                $chat.append('<b>ERROR '+data+'</b>'); // displayMsg(data);
+        });
+        $messageBox.val('');
+    });
+
+    socket.on('broadcast_msg', function(data) {
+        displayMsg(data);
+    });
 
     socket.on('login_ok', function(data) {
-        var html = ['Welcome to AntChatter'];
-        html.push(data.name.first);
-        html.push(data.name.last);
-        html.push('from');
-        html.push(data.roomName+'!');
-        html.push('<br />');
-        content.innterHTML = html;
-        content.scrollTop = content.scrollHeight;
+        univ = data.univ;
     });
- 
-    socket.on('broadcast_msg', function (data) {
-        if(data.message) {
-            messages.push(data);
-            var html = '';
-            for(var i=0; i<messages.length; i++) {
-                html += '<b>' + (messages[i].username ? messages[i].username : 'Server') + ': </b>';
-		html += messages[i].message + '<br />';
-            }
-            content.innerHTML = html;
-  	    content.scrollTop = content.scrollHeight;
-        } else {
-            console.log("There is a problem:", data);
-        }
-    });
- 
-    sendButton.onclick = sendMessage = function() {
-        if (name.value == '') {
-	    socket.emit('please enter your name!');
-	} else {
- 	    var text = field.value;
-            socket.emit('send', { username: name.value, message: text });
-            field.value = '';
-        }
-    };
- 
-}
 
-$(document).ready(function() {
-    $("#field").keyup(function(e) {
+    function displayMsg(data) {
+        messages.push(data);
+        var html = '';
+        for (var i=0; i<messages.length; i++) {
+            html += '<b>' + messages[i].nickname + ': </b>';
+            html += messages[i].body + '<br />';
+        }
+        $chat.html(html);
+        $chat.scrollTop($chat[0].scrollHeight);
+    }
+
+    $messageBox.keyup(function(e) {
         if(e.keyCode == 13) {
-            sendMessage();
+            $sendButton.trigger('click');
         }
     });
 });

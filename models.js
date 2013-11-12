@@ -8,8 +8,7 @@ exports.RoomSchema = Schema({
         lng: { type: Number, required: true },
         lat: { type: Number, required: true }
     },
-    name: { type: String, required: true },
-    university: { type: String, required: true },
+    univ: { type: String, required: true, unique: true },
     range: {
         northeast: {
             lng: { type: Number, required: true },
@@ -32,7 +31,7 @@ exports.UserSchema = Schema({
 
 exports.MessageSchema = Schema({
     nickname: { type: String, trim: true },
-    roomId: { type: ObjectId, ref: 'Room' }, // Room name
+    univ: { type: String }, 
     timestamp: { type: Date, default: Date.now },
     body: String
 });

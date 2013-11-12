@@ -1,0 +1,37 @@
+extends ./base
+
+block prepend body
+    body
+    .container
+        nav.navbar.navbar-default(role='navigation')
+            .navbar-header
+                button.navbar-toggle(type='button', data-toggle='collapse')
+                a.navbar-brand(href='#')
+                  | Ant
+                  u Chatter
+        .row(style='margin-top:15px;')
+            .col-sm-3.col-3 
+                p(style='font-size:25px;') College Rooms
+                //
+                    p(style='font-size:11px;'), sorted by proximity to you
+            .col-sm-6.col-6 
+                p(style='font-size:25px;') {Your Univ Name Here}
+                #chatWrap
+                    #chat(style='height:500px;border:1px solid #e7e7e7;overflow:scroll;')
+                    .input-group
+                        input.form-control#messageBox(type='text', style='height:63px;border-top:0px;border-top-left-radius:0;'
+                            autofocus='autofocus', required='required')
+                        span.input-group-btn
+                            button.btn.btn-default#sendButton(style='height:63px;' type='button') Go!
+            .col-sm-3.col-3 
+                p(style='font-size:25px;').pull-right Students
+                #studentList
+                //
+                    p(style='font-size:11px;').pull-right, sorted by proximity to you
+block append scripts 
+    script.
+        var nickname = "#{nickname}";
+        var siteIp = "#{siteIp}";
+        var sitePort = "#{sitePort}";
+        var rootUrl = "#{rootUrl}";
+    script(src='#{staticRoot}js/chat.js')

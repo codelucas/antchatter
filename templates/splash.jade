@@ -12,17 +12,15 @@ block body
                         h1.text-center.login-title(style='font-size:40px; color: #DFD6D6;')
                             | Ant
                             u Chatter
-                        form.form-signin
-                            input.form-control(type='text', placeholder='First Name', required='required', autofocus='autofocus')
-                            input.form-control(type='text', placeholder='Last Name', required='required')
+                        form.form-signin(action='/', method='post')
+                            input.form-control(type='text', name='user[nickname]', placeholder='nickname', 
+                                required='required', autofocus='autofocus')
                             button.btn.btn-lg.btn-primary.btn-block(type='submit' style='margin-top:15px')
                                 | Join!
                             label.checkbox.pull-left(style='color:#DFD6D6;')
                                 input(type='checkbox', value='remember-me')
                                 | Remember me
                             span.clearfix
-                    //  
-                        .text-center.new-account(style='color:#fff;') No passwords, no hassle
         .container
             .row(style='text-align:center;margin-top:20px;')
                 .col-sm-12.col-md-10.col-md-offset-1
@@ -32,3 +30,8 @@ block body
                         |  students from over 
                         u 2000
                         |  universities in the biggest college chat ever.
+            .row(style='text-align:center;margin-top:130px;color:#DFD6D6;')
+                | Built and designed by 
+                a(href='http://codelucas.com') Lucas Ou-Yang
+                |  from 
+                a(href='http://uci.edu') UCI

@@ -1,21 +1,19 @@
 var models = require('../models');
 var MessageModel = models.MessageModel;
 
-var handleErr = require('./sessions').handleErr;
-
-exports.broadcast = function(io, socket, data) {
+exports.broadcast = function(io, socket, data, callback) {
     if (!data.message) { 
-        handleErr(socket, 'no msg provided'); 
-        return;
+        callback('no msg body provided');
     }
     var mbuild = {
-        name: socket.name,
-        roomId:socket.roomId,
+        nickname: socket.nickname,
+        univ: socket.univ,
         timestamp: Date.now(),
         body: data.message
     };    
     var msg = MessageModel(mbuild);
     msg.save();
+
     // The geocoords don't get saved into msg model so
     // this line must come after .save(). This data is
     // needed on the client for computations though!

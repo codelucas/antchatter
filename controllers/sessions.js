@@ -1,59 +1,62 @@
 var UserModel = require('../models').UserModel;
 var RoomModel = require('../models').RoomModel;
 
+/*
 exports.handleErr = function(socket, msg, err) {
     err = typeof err !== 'undefined' ? err : 'error';
     socket.emit(err, { message : 'error '+msg });
 }
+*/
 
-exports.getRoom = function(long, lat) {
+exports.getRoom = function(lng, lat) {
     RoomModel.findOne({}, function(err, room) {
         if (err) {
-            exports.handleErr(socket, 'room read err');
+            socket.emit('error', { message : 'room reading err' });
             return;
         }
         return room;
     });
 }
 
-// 'data' contains a dict w/ first & last name. It also
-// contains a long, lat tuple.
-exports.login = function(io, socket, data) {
+// 'data' contains a dict w/ { lng, lat, nickname }
+// We churn lng, lat into a university name (chat room).
+// The nickname is stored to prevent duplicates and to label
+// chat messages with sender nicknames.
+exports.login = function(io, socket, data, callback) {
     // Ensure there are no duplicate emails.
     UserModel.findOne(
-        { 'name.first' : data.name.first, 'name.last' : data.name.last },
+        { 'nickname' : data.nickname },
         function(err, user) {
             if (err) { 
-                exports.handleErr(socket, 'reading users'); 
-                return; 
+                callback('error reading users from mongo');
             }    
             // There is a duplicate
             if (user) {
-                console.warn('we have a nickname in use', user.name);
-                exports.handleErr(socket, 'duplicate user');
-                return;
+                callback('we have a nickname in use '+user.nickname);
             } 
             // No duplicates or errors, find a room for our new
             // user and set some meta data in the socket!
-            var roomDoc = exports.getRoom(data.longitude, data.latitude);
-            // socket.location = { data.longitude, data.latitude };
-            socket.roomId = roomDoc._id;
-            socket.roomName = roomDoc.name;
-            socket.name = data.name;
+            // var roomDoc = exports.getRoom(data.lng, data.lat);
+            socket.nickname = data.nickname;
+            socket.location = { lng: data.lng, lat: data.lat };
+            socket.univ = 'heaven';// roomDoc.univ;
 
             // Move the user's socket into an appropriate room.
-            socket.join(roomName);
-            
+            socket.join(socket.univ);          
+
             // Save the model 
             var newUser = new UserModel();
-            newUser.name = data.name;
+            newUser.nickname = data.nickname;
+
             newUser.save(function() {
                 socket.emit('login_ok', {
-                    name: data.name,
-                    roomName: roomName,
-                    longitude: data.longitude,
-                    latitude: data.latitude
+                    //nickname: data.nickname,
+                    univ: socket.univ
+                    //lng: data.lng,
+                    //lat: data.lat
                 });
+                socket.broadcast.to(socket.univ).emit('broadcast_msg',
+                    data.nickname+' has joined the room!');
             });
         } 
     );
@@ -67,46 +70,22 @@ exports.logout = function(io, socket, data) {
 
 exports.disconnect = function(io, socket) {
     UserModel.findOne(
-        { 'name.first' : socket.name.first, 'name.last' : socket.name.last }, 
+        { 'nickname' : socket.nickname },
         function(err, user) {
             if (err) { 
-                exports.handleErr(socket, 'reading users'); 
+                socket.emit('error', { message: 'reading users err' });
                 return; 
             } 
             // The user we are trying to remove does not exist!
             if (!user) {
-                exports.handleErr(socket, 'user not found', 'logout_err');
+                socket.emit('error', { message: 'user not found' });
                 return;
             }
             // Remove the user from db to free username
             user.remove(function() {
-                socket.emit('logout_ok');
+                // socket.emit('logout_ok');
             });
         }
     );
-    io.sockets.emit('disconnect_ok', {
-        name: socket.user.name     
-    }); 
+    socket.broadcast.to(socket.univ).emit(socket.nickname+' has left the room!');
 }  
-
-/*
-// Following code if we want to expand to logins
-exports.createUser = function(io, socket, data) {
-    if (!data.email) {
-        socket.emit('error', { message:'emails are required!' });
-        return;
-    }
-    // Ensure there are no duplicate emails.
-    var user = new UserModel();
-    user.name.first = data.firstname;
-    user.name.last = data.lastname;
-    user.email = data.email;
-    user.save(function(err, doc) {
-        if (err) {
-            socket.emit('error', { message:'login failure'+user.email });
-        }
-    });
-    exports.login(io, socket, user);
-}
-*/
-
