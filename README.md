@@ -1,8 +1,11 @@
 antchatter
 ==========
 
-Real time messaging service using geolocation &amp; firebase to place students in chatrooms by what building they are sitting in. The dev server will be up for testing at http://louyang.webfactional.com
+Real time messaging service using geolocation &amp; `node.js` and `firebase` to place students in chatrooms by what building they are sitting in. This is still a work in progress but it is my main extracirricular at the moment!
 
+Our geolocation strategy is to call the google location api for `geocode ranges` for specific universities and buildings. After we build up a reasonable data set, we can easily call our own service for **geocoords --> human building** to decide where to place users in chat rooms. 
+
+<!---
 ####Team guidelines
 -------------------
 - Please use github's `issues` system on the right if you have .. issues.
@@ -21,3 +24,4 @@ Real time messaging service using geolocation &amp; firebase to place students i
 Good luck!
 
 Lucas, Jose, Kelvin, Blake
+-->

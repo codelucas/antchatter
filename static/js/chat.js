@@ -1,13 +1,26 @@
 window.onload = function() {
- 
     var messages = [];
-    var socket = io.connect('http://75.126.29.133:20069');
+    var socket = io.connect('http://' + site.siteIp + ':' + site.sitePort);
     var field = document.getElementById("field");
     var sendButton = document.getElementById("send");
     var content = document.getElementById("content");
     var name = document.getElementById("name");
+    var longitude;
+    var latitude;
+    var roomName;
+
+    socket.on('login_ok', function(data) {
+        var html = ['Welcome to AntChatter'];
+        html.push(data.name.first);
+        html.push(data.name.last);
+        html.push('from');
+        html.push(data.roomName+'!');
+        html.push('<br />');
+        content.innterHTML = html;
+        content.scrollTop = content.scrollHeight;
+    });
  
-    socket.on('message', function (data) {
+    socket.on('broadcast_msg', function (data) {
         if(data.message) {
             messages.push(data);
             var html = '';
@@ -33,7 +46,6 @@ window.onload = function() {
     };
  
 }
-
 
 $(document).ready(function() {
     $("#field").keyup(function(e) {
