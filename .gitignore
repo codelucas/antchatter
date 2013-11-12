@@ -11,6 +11,7 @@ pids
 logs
 results
 
+bin
 run
 settings.js
 npm-debug.log

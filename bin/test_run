@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/home/louyang/webapps/antchatter/bin/node /home/louyang/webapps/antchatter/$1
