@@ -21,7 +21,7 @@ app.engine('jade', require('jade').__express);
 // app.use(express.static(__dirname + '/static'));
 
 app.locals({
-    rootUrl: 'http://louyang.webfactional.com',
+    rootUrl: settings.rootUrl,
     siteName: settings.appName,
     siteIp: settings.appIP,
     staticRoot: settings.staticRoot,
@@ -33,7 +33,11 @@ mongoose.connect('mongodb://'+settings.dbUserName+':'+
                  settings.dbPassWord+'@localhost:'+settings.dbPort);
 
 app.get('/', function(req, res) {
-    res.render('base');
+    res.render('splash');
+});
+
+app.post('/', function(req, res) {
+    // var email = sReq.query.email.;
 });
 
 var io = require('socket.io').listen(app.listen(Number(settings.appPort)));

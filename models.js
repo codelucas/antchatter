@@ -5,11 +5,21 @@ var ObjectId = Schema.Types.ObjectId;
 // http://mongoosejs.com/docs/2.7.x/docs/populate.html
 exports.RoomSchema = Schema({
     coords: {
-        longitude: { type: Number, required: true },
-        latitude: { type: Number, required: true }
+        lng: { type: Number, required: true },
+        lat: { type: Number, required: true }
     },
     name: { type: String, required: true },
-    university: { type: String, required: true }
+    university: { type: String, required: true },
+    range: {
+        northeast: {
+            lng: { type: Number, required: true },
+            lat: { type: Number, required: true }
+        },
+        southwest: {
+            lng: { type: Number, required: true },
+            lat: { type: Number, required: true }
+        }
+    }
     // messages: [ { type: ObjectId, ref: 'Message' } ]
 });
 
@@ -17,17 +27,11 @@ exports.RoomSchema = Schema({
 // and deleted as users connect & disconnect. This model
 // purely exists as a mechanism to reserve names.
 exports.UserSchema = Schema({
-    name: {
-        first: { type: String, trim: true },
-        last: { type: String, trim: true }
-    }
+    nickname: { type: String, trim: true }
 });
 
 exports.MessageSchema = Schema({
-    name: { 
-        first: { type: String },
-        last: { type: String }
-    },  
+    nickname: { type: String, trim: true },
     roomId: { type: ObjectId, ref: 'Room' }, // Room name
     timestamp: { type: Date, default: Date.now },
     body: String

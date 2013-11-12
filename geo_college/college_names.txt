@@ -1,0 +1,4334 @@
+(lp0
+VA.T. Still University of Health Sciences
+p1
+aVAbilene Christian University
+p2
+aVAbraham Baldwin Agricultural College
+p3
+aVAcademy of Art University
+p4
+aVAdams State College
+p5
+aVAdelphi University
+p6
+aVAdler Graduate School
+p7
+aVAdler School of Professional Psychology
+p8
+aVAdrian College
+p9
+aVAdventist University of Health Sciences
+p10
+aVAgnes Scott College
+p11
+aVAIB College of Business
+p12
+aVAir Force Institute of Technology
+p13
+aVAir University
+p14
+aVAlabama A&amp;M University
+p15
+aVAlabama State University
+p16
+aVAlaska Bible College
+p17
+aVAlaska Pacific University
+p18
+aVAlbany College of Pharmacy &amp; Health Sciences
+p19
+aVAlbany Medical College
+p20
+aVAlbany State University
+p21
+aVAlbertus Magnus College
+p22
+aVAlbion College
+p23
+aVAlbright College
+p24
+aVAlcorn State University
+p25
+aVAlderson-Broaddus College
+p26
+aVAlfred University
+p27
+aVAlice Lloyd College
+p28
+aVAllegheny College
+p29
+aVAllen College
+p30
+aVAllen University
+p31
+aVAlliant International University
+p32
+aVAlma College
+p33
+aVAlvernia University
+p34
+aVAlverno College
+p35
+aVAmbassador University
+p36
+aVAmberton University
+p37
+aVAmerican Academy of Art
+p38
+aVAmerican College
+p39
+aVAmerican College of Acupuncture &amp; Oriental Medicine
+p40
+aVAmerican College of Education
+p41
+aVAmerican Conservatory Theater
+p42
+aVAmerican Film Institute
+p43
+aVAmerican Indian College of the Assemblies of God
+p44
+aVAmerican InterContinental University
+p45
+aVAmerican International College
+p46
+aVAmerican Jewish University
+p47
+aVAmerican Military University
+p48
+aVAmerican Public University
+p49
+aVAmerican University
+p50
+aVAmerican University of Puerto Rico
+p51
+aVAmherst College
+p52
+aVAmridge University
+p53
+aVAnderson University
+p54
+aVAnderson University
+p55
+aVAndover Newton Theological School
+p56
+aVAndrews University
+p57
+aVAngelo State University
+p58
+aVAnna Maria College
+p59
+aVAntioch College
+p60
+aVAntioch University&ndash;Midwest
+p61
+aVAntioch University&ndash;New England
+p62
+aVAntioch University&ndash;Los Angeles
+p63
+aVAntioch University&ndash;Santa Barbara
+p64
+aVAntioch University&ndash;Seattle
+p65
+aVAOMA Graduate School of Integrative Medicine
+p66
+aVAppalachian Bible College
+p67
+aVAppalachian State University
+p68
+aVAquinas College
+p69
+aVAquinas College
+p70
+aVAquinas Institute of Theology
+p71
+aVArcadia University
+p72
+aVArgosy University
+p73
+aVArizona Christian University
+p74
+aVArizona State University
+p75
+aVArizona State University&ndash;Downtown Phoenix Campus
+p76
+aVArizona State&ndash;Polytechnic Campus
+p77
+aVArizona State University&ndash;West Campus
+p78
+aVArkansas Baptist College
+p79
+aVArkansas State University
+p80
+aVArkansas Tech University
+p81
+aVArlington Baptist College
+p82
+aVArmstrong Atlantic State University
+p83
+aVArt Academy of Cincinnati
+p84
+aVArt Center College of Design
+p85
+aVArt Center Design College
+p86
+aVArt Institute of Atlanta
+p87
+aVArt Institute of Colorado
+p88
+aVArt Institute of Dallas
+p89
+aVArt Institute of Houston
+p90
+aVArt Institute of Pittsburgh
+p91
+aVArt Institute of Portland
+p92
+aVArt Institute of Seattle
+p93
+aVAsbury Theological Seminary
+p94
+aVAsbury University
+p95
+aVAshford University
+p96
+aVAshland University
+p97
+aVAssociated Mennonite Biblical Seminary
+p98
+aVAssumption College
+p99
+aVAthenaeum of Ohio
+p100
+aVAthens State University
+p101
+aVAuburn University
+p102
+aVAuburn University at Montgomery
+p103
+aVAugsburg College
+p104
+aVAugusta State University
+p105
+aVAugustana College
+p106
+aVAugustana College
+p107
+aVAurora University
+p108
+aVAustin College
+p109
+aVAustin Graduate School of Theology
+p110
+aVAustin Peay State University
+p111
+aVAustin Presbyterian Theological Seminary
+p112
+aVAve Maria University
+p113
+aVAverett University
+p114
+aVAvila University
+p115
+aVAzusa Pacific University
+p116
+aVDaemen College
+p117
+aVDakota State University
+p118
+aVDakota Wesleyan University
+p119
+aVDallas Baptist University
+p120
+aVDallas Christian College
+p121
+aVDallas Theological Seminary
+p122
+aVDalton State College
+p123
+aVDaniel Webster College
+p124
+aVDartmouth College
+p125
+aVDavenport University
+p126
+aVDavidson College
+p127
+aVDavis College
+p128
+aVDavis &amp; Elkins College
+p129
+aVDaytona State College
+p130
+aVDean College
+p131
+aVDefiance College
+p132
+aVDelaware State University
+p133
+aVDelaware Valley College
+p134
+aVDelta State University
+p135
+aVDenison University
+p136
+aVDenver Seminary
+p137
+aVDePaul University
+p138
+aVDePauw University
+p139
+aVDes Moines University&ndash;Osteopathic Medical Center
+p140
+aVDeSales University
+p141
+aVDeVry University
+p142
+aVDeVry University&ndash;Addison
+p143
+aVDeVry University&ndash;Arlington
+p144
+aVDeVry University&ndash;Chicago
+p145
+aVDeVry University&ndash;Georgia
+p146
+aVDeVry University&ndash;Irving
+p147
+aVDeVry University&ndash;Kansas City
+p148
+aVDeVry University&ndash;Long Beach
+p149
+aVDeVry University&ndash;Orlando
+p150
+aVDeVry University&ndash;Phoenix
+p151
+aVDeVry University&ndash;Pomona
+p152
+aVDickinson College
+p153
+aVDickinson State University
+p154
+aVDillard University
+p155
+aVDivine Word College
+p156
+aVDixie State College
+p157
+aVDoane College
+p158
+aVDominican College
+p159
+aVDominican House of Studies
+p160
+aVDominican School of Philosophy &amp; Theology
+p161
+aVDominican University
+p162
+aVDominican University of California
+p163
+aVDonnelly College
+p164
+aVDordt College
+p165
+aVDowling College
+p166
+aVDrake University
+p167
+aVDrew University
+p168
+aVDrexel University
+p169
+aVDrury University
+p170
+aVDuke University
+p171
+aVDunwoody College of Technology
+p172
+aVDuquesne University
+p173
+aVD&#180;Youville College
+p174
+aVEarlham College
+p175
+aVEast Carolina University
+p176
+aVEast Central University
+p177
+aVEast Stroudsburg State University of Pennsylvania
+p178
+aVEast Tennessee State University
+p179
+aVEast Texas Baptist University
+p180
+aVEast-West University
+p181
+aVEastern Connecticut State University
+p182
+aVEastern Florida State College
+p183
+aVEastern Illinois University
+p184
+aVEastern Kentucky University
+p185
+aVEastern Mennonite University
+p186
+aVEastern Michigan University
+p187
+aVEastern Nazarene College
+p188
+aVEastern New Mexico University
+p189
+aVEastern Oregon University
+p190
+aVEastern University
+p191
+aVEastern Virginia Medical School
+p192
+aVEastern Washington University
+p193
+aVEckerd College
+p194
+aVECPI University
+p195
+aVEden Theological Seminary
+p196
+aVEdgewood College
+p197
+aVEdinboro University of Pennsylvania
+p198
+aVEdison State College
+p199
+aVEDP College
+p200
+aVEdward Waters College
+p201
+aVElizabeth City State University
+p202
+aVElizabethtown College
+p203
+aVEllis University
+p204
+aVElmhurst College
+p205
+aVElmira College
+p206
+aVElms College
+p207
+aVElon University
+p208
+aVEmbry-Riddle Aeronautical University
+p209
+aVEmerson College
+p210
+aVEmmanuel Christian Seminary
+p211
+aVEmmanuel College
+p212
+aVEmmanuel College
+p213
+aVEmmaus Bible College
+p214
+aVEmporia State University
+p215
+aVEmory &amp; Henry College
+p216
+aVEmory University
+p217
+aVEndicott College
+p218
+aVErikson Institute
+p219
+aVErskine College
+p220
+aVEscuela de Artes Pl&aacute;sticas de Puerto Rico
+p221
+aVEureka College
+p222
+aVEvangel University
+p223
+aVEvangelical Theological Seminary
+p224
+aVEverglades University
+p225
+aVEvergreen State College
+p226
+aVExcelsior College
+p227
+aVFairfield University
+p228
+aVFairleigh Dickinson University
+p229
+aVFairmont State University
+p230
+aVFaith Baptist Bible College &amp; Theological Seminary
+p231
+aVFashion Institute of Design &amp; Merchandising
+p232
+aVFaulkner University
+p233
+aVFayetteville State University
+p234
+aVFelician College
+p235
+aVFerris State University
+p236
+aVFerrum College
+p237
+aVFielding Graduate University
+p238
+aVFinlandia University
+p239
+aVFisher College
+p240
+aVFisk University
+p241
+aVFitchburg State University
+p242
+aVFive Towns College
+p243
+aVFlagler College
+p244
+aVFlorida Agricultural &amp; Mechanical University
+p245
+aVFlorida Atlantic University
+p246
+aVFlorida College
+p247
+aVFlorida Gulf Coast University
+p248
+aVFlorida Institute of Technology
+p249
+aVFlorida International University
+p250
+aVFlorida Memorial University
+p251
+aVFlorida National University
+p252
+aVFlorida Southern College
+p253
+aVFlorida State College at Jacksonville
+p254
+aVFlorida State University
+p255
+aVFontbonne University
+p256
+aVFordham University
+p257
+aVForest Institute of Professional Psychology
+p258
+aVFort Hays State University
+p259
+aVFort Lewis College
+p260
+aVFort Valley State University
+p261
+aVFramingham State University
+p262
+aVFrancis Marion University
+p263
+aVFranciscan School of Theology
+p264
+aVFranciscan University of Steubenville
+p265
+aVFrank Lloyd Wright School of Architecture
+p266
+aVFranklin &amp; Marshall College
+p267
+aVFranklin College
+p268
+aVFranklin Pierce University
+p269
+aVFranklin University
+p270
+aVFranklin W. Olin College of Engineering
+p271
+aVFreed-Hardeman University
+p272
+aVFresno Pacific University
+p273
+aVFriends University
+p274
+aVFrontier Nursing University
+p275
+aVFrostburg State University
+p276
+aVFuller Theological Seminary
+p277
+aVFurman University
+p278
+aVFuture Generations Graduate School
+p279
+aVGallaudet University
+p280
+aVGannon University
+p281
+aVGardner-Webb University
+p282
+aVGarrett-Evangelical Theological Seminary
+p283
+aVGeneva College
+p284
+aVGeorge Fox University
+p285
+aVGeorge Mason University
+p286
+aVGeorge Washington University
+p287
+aVGeorge Washington University&ndash;Virginia Campus
+p288
+aVGeorgetown College
+p289
+aVGeorgetown University
+p290
+aVGeorgia College &amp; State University
+p291
+aVGeorgia Gwinnett College
+p292
+aVGeorgia Institute of Technology
+p293
+aVGeorgia Regents University
+p294
+aVGeorgia Southern University
+p295
+aVGeorgia Southwestern State University
+p296
+aVGeorgia State University
+p297
+aVGeorgian Court University
+p298
+aVGettysburg College
+p299
+aVGlenville State College
+p300
+aVGlobal University
+p301
+aVGod's Bible School &amp; College
+p302
+aVGoddard College
+p303
+aVGolden Gate Baptist Theological Seminary
+p304
+aVGolden Gate University
+p305
+aVGoldey-Beacom College
+p306
+aVGoldfarb School of Nursing at Barnes-Jewish College
+p307
+aVGonzaga University
+p308
+aVGoodwin College
+p309
+aVGordon State College
+p310
+aVGordon College
+p311
+aVGordon-Conwell Theological Seminary
+p312
+aVGoshen College
+p313
+aVGoucher College
+p314
+aVGovernors State University
+p315
+aVGrace Bible College
+p316
+aVGrace College &amp; Seminary
+p317
+aVGrace University
+p318
+aVGraceland University
+p319
+aVGraduate Institute of Applied Linguistics
+p320
+aVGraduate Theological Union
+p321
+aVGrambling State University
+p322
+aVGrand Canyon University
+p323
+aVGrand Valley State University
+p324
+aVGrand View University
+p325
+aVGranite State College
+p326
+aVGratz College
+p327
+aVGreat Basin College
+p328
+aVGreat Lakes Christian College
+p329
+aVGreen Mountain College
+p330
+aVGreensboro College
+p331
+aVGreenville College
+p332
+aVGrinnell College
+p333
+aVGrove City College
+p334
+aVGuilford College
+p335
+aVGulf Coast State College
+p336
+aVGustavus Adolphus College
+p337
+aVGwynedd Mercy College
+p338
+aVIcahn School of Medicine at Mount Sinai
+p339
+aVIdaho State University
+p340
+aVIliff School of Theology
+p341
+aVIllinois College
+p342
+aVIllinois College of Optometry
+p343
+aVIllinois Institute of Art
+p344
+aVIllinois Institute of Art&ndash;Schaumburg
+p345
+aVIllinois Institute of Technology
+p346
+aVIllinois State University
+p347
+aVIllinois Wesleyan University
+p348
+aVImmaculata University
+p349
+aVIndian River State College
+p350
+aVIndiana Institute of Technology
+p351
+aVIndiana State University
+p352
+aVIndiana University&ndash;Bloomington
+p353
+aVIndiana University&ndash;East
+p354
+aVIndiana University&ndash;Kokomo
+p355
+aVIndiana University&ndash;Northwest
+p356
+aVIndiana University&ndash;South Bend
+p357
+aVIndiana University&ndash;Southeast
+p358
+aVIndiana University System
+p359
+aVIndiana University/Purdue University at Columbus
+p360
+aVIndiana University/Purdue University at Fort Wayne
+p361
+aVIndiana University/Purdue University at Indianapolis
+p362
+aVIndiana University of Pennsylvania
+p363
+aVIndiana Wesleyan University
+p364
+aVInstitute for Clinical Social Work
+p365
+aVInstitute for the Psychological Sciences
+p366
+aVInstitute of American Indian Arts
+p367
+aVInstitute of World Politics
+p368
+aVInterdenominational Theological Center
+p369
+aVIona College
+p370
+aVIowa State University
+p371
+aVIowa Wesleyan College
+p372
+aVIrell &amp; Manella Graduate School of Biological Sciences
+p373
+aVIthaca College
+p374
+aVJackson State University
+p375
+aVJacksonville University
+p376
+aVJacksonville State University
+p377
+aVJames Madison University
+p378
+aVJamestown College
+p379
+aVJarvis Christian College
+p380
+aVJefferson College of Health Sciences
+p381
+aVThe Jewish Theological Seminary of America
+p382
+aVJohn Brown University
+p383
+aVJohn Carroll University
+p384
+aVJohn F. Kennedy University
+p385
+aVJohn Marshall Law School
+p386
+aVJohns Hopkins University
+p387
+aVJohnson University
+p388
+aVJohnson University Florida
+p389
+aVJohnson C. Smith University
+p390
+aVJohnson State College
+p391
+aVJohnson &amp; Wales University
+p392
+aVJones International University
+p393
+aVJudson College
+p394
+aVJudson University
+p395
+aVThe Juilliard School
+p396
+aVJuniata College
+p397
+aVLa Roche College
+p398
+aVLa Salle University
+p399
+aVLa Sierra University
+p400
+aVLabour&eacute; College
+p401
+aVLafayette College
+p402
+aVLaGrange College
+p403
+aVLaguna College of Art &amp; Design
+p404
+aVLake Erie College
+p405
+aVLake Erie College of Osteopathic Medicine
+p406
+aVLake Forest College
+p407
+aVLake Forest Graduate School of Management
+p408
+aVLake Superior State University
+p409
+aVLake-Sumter State College
+p410
+aVLakeland College
+p411
+aVLakeview College of Nursing
+p412
+aVLamar University
+p413
+aVLancaster Bible College
+p414
+aVLancaster Theological Seminary
+p415
+aVLander University
+p416
+aVLandmark College
+p417
+aVLane College
+p418
+aVLangston University
+p419
+aVLasell College
+p420
+aVLawrence Technological University
+p421
+aVLawrence University
+p422
+aVLe Moyne College
+p423
+aVLebanon Valley College
+p424
+aVLee University
+p425
+aVLees-McRae College
+p426
+aVLehigh University
+p427
+aVLeMoyne-Owen College
+p428
+aVLenoir-Rhyne University
+p429
+aVLesley University
+p430
+aVLeTourneau University
+p431
+aVLewis &amp; Clark College
+p432
+aVLewis-Clark State College
+p433
+aVLewis University
+p434
+aVLexington College
+p435
+aVLiberty University
+p436
+aVLife Pacific College
+p437
+aVLife University
+p438
+aVLIM College
+p439
+aVLimestone College
+p440
+aVLincoln Christian University
+p441
+aVLincoln College
+p442
+aVLincoln College of New England
+p443
+aVLincoln Memorial University
+p444
+aVLincoln University
+p445
+aVLincoln University
+p446
+aVLindenwood University
+p447
+aVLindsey Wilson College
+p448
+aVLinfield College
+p449
+aVLipscomb University
+p450
+aVLivingstone College
+p451
+aVLock Haven University of Pennsylvania
+p452
+aVLogan University
+p453
+aVLoma Linda University
+p454
+aVLong Island University
+p455
+aVLong Island University&ndash;Arnold &amp; Marie Schwartz College of Pharmacy &amp; Health Sciences
+p456
+aVLong Island University&ndash;Brentwood Campus
+p457
+aVLong Island University&ndash;Brooklyn Campus
+p458
+aVLong Island University&ndash;C.W. Post Campus
+p459
+aVLong Island University at Riverhead
+p460
+aVLong Island University&ndash;Rockland Graduate Campus
+p461
+aVLong Island University&ndash;Westchester Graduate Campus
+p462
+aVLongwood University
+p463
+aVLongy School of Music
+p464
+aVLoras College
+p465
+aVLouisiana College
+p466
+aVLouisiana State University
+p467
+aVLouisiana State University&ndash;Alexandria
+p468
+aVLouisiana State University&ndash;Law Center
+p469
+aVLouisiana State University Health Sciences Center&ndash;New Orleans
+p470
+aVLouisiana State University Health Sciences Center&ndash;Shreveport
+p471
+aVLouisiana State University&ndash;Shreveport
+p472
+aVLouisiana State University System
+p473
+aVLouisiana Tech University
+p474
+aVLouisville Presbyterian Theological Seminary
+p475
+aVLourdes University
+p476
+aVLoyola University Maryland
+p477
+aVLoyola Marymount University
+p478
+aVLoyola University Chicago
+p479
+aVLoyola University New Orleans
+p480
+aVLubbock Christian University
+p481
+aVLuther College
+p482
+aVLuther Seminary
+p483
+aVLutheran School of Theology at Chicago
+p484
+aVLutheran Theological Seminary at Gettysburg
+p485
+aVLutheran Theological Seminary at Philadelphia
+p486
+aVLycoming College
+p487
+aVLyme Academy College of Fine Arts
+p488
+aVLynchburg College
+p489
+aVLyndon State College
+p490
+aVLynn University
+p491
+aVLyon College
+p492
+aVNaropa University
+p493
+aVNational American University
+p494
+aVNational College of Natural Medicine
+p495
+aVNational Defense University
+p496
+aVNational Graduate School of Quality Management
+p497
+aVNational Hispanic University
+p498
+aVNational Intelligence University
+p499
+aVNational Labor College
+p500
+aVNational-Louis University
+p501
+aVNational University
+p502
+aVNational University of Health Sciences
+p503
+aVNavajo Technical College
+p504
+aVNaval Postgraduate School
+p505
+aVNazarene Bible College
+p506
+aVNazareth College
+p507
+aVNebraska Christian College
+p508
+aVNebraska Methodist College
+p509
+aVNebraska Wesleyan University
+p510
+aVNeumann University
+p511
+aVNew College of Florida
+p512
+aVNew England College
+p513
+aVNew England College of Business &amp; Finance
+p514
+aVNew England College of Optometry
+p515
+aVNew England Conservatory of Music
+p516
+aVNew England Institute of Art
+p517
+aVNew England Institute of Technology
+p518
+aVNew Hope Christian College
+p519
+aVNew Jersey City University
+p520
+aVNew Jersey Institute of Technology
+p521
+aVNew Mexico Highlands University
+p522
+aVNew Mexico Institute of Mining &amp; Technology
+p523
+aVNew Mexico State University
+p524
+aVNew Orleans Baptist Theological Seminary
+p525
+aVThe New School
+p526
+aVNew York Chiropractic College
+p527
+aVNew York Institute of Technology
+p528
+aVNew York Medical College
+p529
+aVNew York University
+p530
+aVNewberry College
+p531
+aVNewbury College
+p532
+aVNewman University
+p533
+aVNiagara University
+p534
+aVNichols College
+p535
+aVNicholls State University
+p536
+aVNorfolk State University
+p537
+aVNorth Carolina A&amp;T State University
+p538
+aVNorth Carolina Central University
+p539
+aVNorth Carolina Wesleyan College
+p540
+aVNorth Central University
+p541
+aVNorth Central College
+p542
+aVNorth Carolina State University
+p543
+aVNorth Dakota State University
+p544
+aVNorth Greenville University
+p545
+aVNorth Park University
+p546
+aVNorthcentral University
+p547
+aVNortheast Ohio Medical University
+p548
+aVNortheastern Illinois University
+p549
+aVNortheastern Seminary at Roberts Wesleyan College
+p550
+aVNortheastern State University
+p551
+aVNortheastern State University&ndash;Broken Arrow
+p552
+aVNortheastern State University&ndash;Muskogee
+p553
+aVNortheastern University
+p554
+aVNorthern Arizona University
+p555
+aVNorthern Baptist Theological Seminary
+p556
+aVNorthern Illinois University
+p557
+aVNorthern Kentucky University
+p558
+aVNorthern Michigan University
+p559
+aVNorthern New Mexico College
+p560
+aVNorthern State University
+p561
+aVNorthland College
+p562
+aVNorthwest Christian University
+p563
+aVNorthwest Florida State College
+p564
+aVNorthwest Indian College
+p565
+aVNorthwest Missouri State University
+p566
+aVNorthwest Nazarene University
+p567
+aVNorthwest University
+p568
+aVNorthwestern College
+p569
+aVNorthwestern Health Sciences University
+p570
+aVNorthwestern Oklahoma State University
+p571
+aVNorthwestern State University of Louisiana
+p572
+aVNorthwestern University
+p573
+aVNorthwood University
+p574
+aVNorwich University
+p575
+aVNotre Dame College
+p576
+aVNotre Dame de Namur University
+p577
+aVNotre Dame Seminary
+p578
+aVNova Southeastern University
+p579
+aVNyack College
+p580
+aVPace University
+p581
+aVPacific Lutheran University
+p582
+aVPacific Northwest College of Art
+p583
+aVPacific Oaks College
+p584
+aVPacific School of Religion
+p585
+aVPacific Union College
+p586
+aVPacific University
+p587
+aVPacifica Graduate Institute
+p588
+aVPaine College
+p589
+aVPalm Beach Atlantic University
+p590
+aVPalm Beach State College
+p591
+aVPalmer College of Chiropractic
+p592
+aVPalo Alto University
+p593
+aVPardee RAND Graduate School
+p594
+aVPark University
+p595
+aVParker University
+p596
+aVPatten University
+p597
+aVPaul Quinn College
+p598
+aVPaul Smith's College
+p599
+aVPeace College
+p600
+aVPeirce College
+p601
+aVPeninsula College
+p602
+aVPennsylvania College of Art &amp; Design
+p603
+aVPennsylvania College of Health Sciences
+p604
+aVPennsylvania College of Technology
+p605
+aVPennsylvania State University
+p606
+aVPennsylvania State University&ndash;Abington
+p607
+aVPennsylvania State University&ndash;Altoona
+p608
+aVPennsylvania State University&ndash;Beaver
+p609
+aVPennsylvania State University&ndash;Berks
+p610
+aVPennsylvania State University&ndash;Brandywine
+p611
+aVPennsylvania State University&ndash;Dickinson School of Law
+p612
+aVPennsylvania State University&ndash;DuBois
+p613
+aVPennsylvania State University&ndash;Erie, The Behrend College
+p614
+aVPennsylvania State University&ndash;Fayette, The Eberly Campus
+p615
+aVPennsylvania State University&ndash;Great Valley School of Graduate Professional Studies
+p616
+aVPennsylvania State University&ndash;Greater Allegheny
+p617
+aVPennsylvania State University&ndash;Harrisburg
+p618
+aVPennsylvania State University&ndash;Hazleton
+p619
+aVPennsylvania State University&ndash;Lehigh Valley
+p620
+aVPennsylvania State University&ndash;Milton S. Hershey Medical Center
+p621
+aVPennsylvania State University&ndash;Mont Alto
+p622
+aVPennsylvania State University&ndash;New Kensington
+p623
+aVPennsylvania State University&ndash;Schuylkill
+p624
+aVPennsylvania State University&ndash;Shenango
+p625
+aVPennsylvania State University&ndash;Wilkes-Barre
+p626
+aVPennsylvania State University&ndash;Worthington Scranton
+p627
+aVPennsylvania State University&ndash;York
+p628
+aVPensacola State College
+p629
+aVPentecostal Theological Seminary
+p630
+aVPepperdine University
+p631
+aVPeru State College
+p632
+aVPfeiffer University
+p633
+aVPhiladelphia College of Osteopathic Medicine
+p634
+aVPhiladelphia College of Textiles &amp; Science
+p635
+aVPhilander Smith College
+p636
+aVPhillips Graduate Institute
+p637
+aVPhillips Theological Seminary
+p638
+aVPhillips University
+p639
+aVPiedmont College
+p640
+aVPine Manor College
+p641
+aVPittsburg State University
+p642
+aVPittsburgh Theological Seminary
+p643
+aVPlymouth State University
+p644
+aVPoint Loma Nazarene University
+p645
+aVPoint Park University
+p646
+aVPoint University
+p647
+aVPolk State College
+p648
+aVPolytechnic Institute of New York University
+p649
+aVPonce School of Medicine &amp; Health Sciences
+p650
+aVPontifical College Josephinum
+p651
+aVPontificia Universidad Cat&oacute;lica de Puerto Rico
+p652
+aVPortland State University
+p653
+aVPost University
+p654
+aVPotomac College
+p655
+aVPrairie View A&amp;M University
+p656
+aVPratt Institute
+p657
+aVPrescott College
+p658
+aVPresentation College
+p659
+aVPrinceton Theological Seminary
+p660
+aVPrinceton University
+p661
+aVPrincipia College
+p662
+aVPresbyterian College
+p663
+aVProvidence College
+p664
+aVPurdue University
+p665
+aVPurdue University&ndash;Calumet
+p666
+aVPurdue University&ndash;North Central
+p667
+aVPurdue University College of Technology&ndash;Anderson/Muncie
+p668
+aVPurdue University College of Technology&ndash;Columbus/Greensburg
+p669
+aVPurdue University College of Technology&ndash;Indianapolis
+p670
+aVPurdue University College of Technology&ndash;Kokomo
+p671
+aVPurdue University College of Technology&ndash;Lafayette
+p672
+aVPurdue University College of Technology&ndash;New Albany
+p673
+aVPurdue University College of Technology&ndash;Richmond
+p674
+aVPurdue University College of Technology&ndash;South Bend/Elkhart
+p675
+aVSacred Heart Major Seminary
+p676
+aVSacred Heart School of Theology
+p677
+aVSacred Heart University
+p678
+aVThe Sage Colleges
+p679
+aVSaginaw Valley State University
+p680
+aVSaint Ambrose University
+p681
+aVSaint Andrews Presbyterian College
+p682
+aVSaint Anselm College
+p683
+aVSaint Anthony College of Nursing
+p684
+aVSaint Augustine College
+p685
+aVSaint Augustine's University
+p686
+aVSaint Bonaventure University
+p687
+aVSaint Catherine University
+p688
+aVSaint Catharine College
+p689
+aVSaint Charles Borromeo Seminary
+p690
+aVSaint Cloud State University
+p691
+aVSaint Edward's University
+p692
+aVSaint Francis College
+p693
+aVSaint Francis Medical Center College of Nursing
+p694
+aVSaint Francis University
+p695
+aVSaint Gregory the Great Seminary
+p696
+aVSaint Gregory's University
+p697
+aVSaint John Fisher College
+p698
+aVSaint John Vianney College Seminary
+p699
+aVSaint John's College&ndash;Annapolis
+p700
+aVSaint John's College&ndash;Santa Fe
+p701
+aVSaint John's College
+p702
+aVSaint John's Seminary
+p703
+aVSaint John's Seminary
+p704
+aVSaint John's University
+p705
+aVSaint John's University
+p706
+aVSaint Johns River State College
+p707
+aVSaint Joseph College
+p708
+aVSaint Joseph Seminary College
+p709
+aVSaint Joseph's College
+p710
+aVSaint Joseph's College
+p711
+aVSaint Joseph's College of Maine
+p712
+aVSaint Joseph's Seminary
+p713
+aVSaint Joseph's University
+p714
+aVSaint Lawrence University
+p715
+aVSaint Leo University
+p716
+aVSaint Louis College of Pharmacy
+p717
+aVSaint Louis University
+p718
+aVSaint Luke's College of Health Sciences
+p719
+aVSaint Martin's University
+p720
+aVSaint Mary Seminary &amp; Graduate School of Theology
+p721
+aVSaint Mary-of-the-Woods College
+p722
+aVSaint Mary's College
+p723
+aVSaint Mary's College of California
+p724
+aVSaint Mary's College of Maryland
+p725
+aVSaint Mary's Seminary &amp; University
+p726
+aVSaint Mary's University of Minnesota
+p727
+aVSaint Mary's University
+p728
+aVSaint Meinrad Seminary &amp; School of Theology
+p729
+aVSaint Michael's College
+p730
+aVSaint Norbert College
+p731
+aVSaint Olaf College
+p732
+aVSaint Patrick's Seminary &amp; University
+p733
+aVSaint Paul School of Theology
+p734
+aVSaint Paul's College
+p735
+aVSaint Peter's College
+p736
+aVSaint Petersburg College
+p737
+aVSaint Thomas Aquinas College
+p738
+aVSaint Thomas University
+p739
+aVSaint Vincent College
+p740
+aVSaint Vincent de Paul Regional Seminary
+p741
+aVSaint Vincent's College
+p742
+aVSaint Xavier University
+p743
+aVSalem College
+p744
+aVSalem International University
+p745
+aVSalem State University
+p746
+aVSalisbury University
+p747
+aVSalish Kootenai College
+p748
+aVSalus University
+p749
+aVSalve Regina University
+p750
+aVSam Houston State University
+p751
+aVSamford University
+p752
+aVSamuel Merritt University
+p753
+aVSan Diego Christian College
+p754
+aVSan Diego State University
+p755
+aVSan Francisco Art Institute
+p756
+aVSan Francisco Conservatory of Music
+p757
+aVSan Francisco State University
+p758
+aVSan Francisco Theological Seminary
+p759
+aVSan Joaquin College of Law
+p760
+aVSan Jos&eacute; State University
+p761
+aVSan Juan Bautista School of Medicine
+p762
+aVSanford College of Nursing
+p763
+aVSanta Clara University
+p764
+aVSanta Fe College
+p765
+aVSanta Fe University of Art &amp; Design
+p766
+aVSarah Lawrence College
+p767
+aVSavannah College of Art &amp; Design
+p768
+aVSavannah State University
+p769
+aVSaybrook University
+p770
+aVSchool for International Training
+p771
+aVSchool of the Art Institute of Chicago
+p772
+aVSchool of Visual Arts
+p773
+aVSchreiner University
+p774
+aVScripps Research Institute
+p775
+aVSeattle Pacific University
+p776
+aVSeattle University
+p777
+aVSeminario Evang&eacute;lico de Puerto Rico
+p778
+aVSeminary of the Immaculate Conception
+p779
+aVSeminary of the Southwest
+p780
+aVSeminole State College of Florida
+p781
+aVSeton Hall University
+p782
+aVSeton Hill University
+p783
+aVShaw University
+p784
+aVShawnee State University
+p785
+aVShenandoah University
+p786
+aVShepherd University
+p787
+aVSherman College of Chiropractic
+p788
+aVShimer College
+p789
+aVShippensburg University of Pennsylvania
+p790
+aVShorter College
+p791
+aVSiegal College of Judaic Studies
+p792
+aVSiena College
+p793
+aVSiena Heights University
+p794
+aVSierra Nevada College
+p795
+aVSilver Lake College
+p796
+aVSimmons College
+p797
+aVSinte Gleska University
+p798
+aVSimpson University
+p799
+aVSimpson College
+p800
+aVSioux Falls Seminary
+p801
+aVSistema Universitario Ana G. M&eacute;ndez
+p802
+aVUniversidad del Este
+p803
+aVUniversidad Metropolitana
+p804
+aVUniversidad del Turabo
+p805
+aVSitting Bull College
+p806
+aVSkidmore College
+p807
+aVSlippery Rock University of Pennsylvania
+p808
+aVSmith College
+p809
+aVSofia University
+p810
+aVSoka University of America
+p811
+aVSomerset Christian College
+p812
+aVSonoma State University
+p813
+aVSoujourner-Douglass College
+p814
+aVSouth Carolina State University
+p815
+aVSouth College
+p816
+aVSouth Dakota School of Mines &amp; Technology
+p817
+aVSouth Dakota State University
+p818
+aVSouth Florida Bible College &amp; Theological Seminary
+p819
+aVSouth Texas College of Law
+p820
+aVSouth University
+p821
+aVSoutheast Missouri State University
+p822
+aVSoutheastern Baptist Theological Seminary
+p823
+aVSoutheastern Bible College
+p824
+aVSoutheastern University
+p825
+aVSoutheastern Louisiana University
+p826
+aVSoutheastern Oklahoma State University
+p827
+aVSouthern Adventist University
+p828
+aVSouthern Arkansas University
+p829
+aVSouthern Baptist Theological Seminary
+p830
+aVSouthern California College of Optometry
+p831
+aVSouthern California Institute of Architecture
+p832
+aVSouthern California University of Health Sciences
+p833
+aVSouthern College of Optometry
+p834
+aVSouthern Connecticut State University
+p835
+aVSouthern Illinois University&ndash;Carbondale
+p836
+aVSouthern Illinois University&ndash;Edwardsville
+p837
+aVSouthern Illinois University System
+p838
+aVSouthern Methodist University
+p839
+aVSouthern Nazarene University
+p840
+aVSouthern New Hampshire University
+p841
+aVSouthern Oregon University
+p842
+aVSouthern Polytechnic State University
+p843
+aVSouthern University and A&amp;M College at Baton Rouge
+p844
+aVSouthern University at New Orleans
+p845
+aVSouthern University at Shreveport
+p846
+aVSouthern University System
+p847
+aVSouthern Utah University
+p848
+aVSouthern Vermont College
+p849
+aVSouthern Virginia University
+p850
+aVSouthern Wesleyan University
+p851
+aVSouthwest Baptist University
+p852
+aVSouthwest College of Naturopathic Medicine &amp; Health Sciences
+p853
+aVSouthwest Minnesota State University
+p854
+aVSouthwestern Adventist University
+p855
+aVSouthwestern Assemblies of God University
+p856
+aVSouthwestern Baptist Theological Seminary
+p857
+aVSouthwestern Christian College
+p858
+aVSouthwestern Christian University
+p859
+aVSouthwestern College
+p860
+aVSouthwestern College
+p861
+aVSouthwestern Oklahoma State University
+p862
+aVSouthwestern University
+p863
+aVSpalding University
+p864
+aVSpelman College
+p865
+aVSpertus Institute of Jewish Studies
+p866
+aVSpring Arbor University
+p867
+aVSpring Hill College
+p868
+aVSpringfield College
+p869
+aVStanford University
+p870
+aVState College of Florida, Manatee-Sarasota
+p871
+aVState University of New York System
+p872
+aVAlbany
+p873
+aVAlfred State University
+p874
+aVBinghamton
+p875
+aVBuffalo
+p876
+aVBuffalo State College
+p877
+aVStony Brook
+p878
+aVCollege at Brockport
+p879
+aVCollege at Cortland
+p880
+aVCollege at Fredonia
+p881
+aVCollege at Geneseo
+p882
+aVCollege at New Paltz
+p883
+aVCollege at Old Westbury
+p884
+aVCollege at Oneonta
+p885
+aVCollege at Oswego
+p886
+aVCollege at Plattsburgh
+p887
+aVCollege at Potsdam
+p888
+aVCollege at Purchase
+p889
+aVCollege of Agriculture &amp; Technology at Cobleskill
+p890
+aVCollege of Agriculture &amp; Technology at Morrisville (Morrisville State College)
+p891
+aVCollege of Environmental Science &amp; Forestry
+p892
+aVCollege of Optometry
+p893
+aVCollege of Technology at Canton
+p894
+aVCollege of Technology at Delhi
+p895
+aVDownstate Medical Center
+p896
+aVEmpire State College
+p897
+aVFarmingdale State College
+p898
+aVFashion Institute of Technology
+p899
+aVInstitute of Technology at Utica/Rome
+p900
+aVMaritime College at Fort Schuyler
+p901
+aVUpstate Medical University
+p902
+aVStephen F. Austin State University
+p903
+aVStephens College
+p904
+aVSterling College
+p905
+aVSterling College
+p906
+aVStetson University
+p907
+aVStevens Institute of Technology
+p908
+aVStevenson University
+p909
+aVStillman College
+p910
+aVStonehill College
+p911
+aVStrayer University
+p912
+aVSuffolk University
+p913
+aVSul Ross State University
+p914
+aVSullivan University
+p915
+aVSusquehanna University
+p916
+aVSwarthmore College
+p917
+aVSweet Briar College
+p918
+aVSyracuse University
+p919
+aVUniversity of the Pacific
+p920
+aVUniversity of Pennsylvania
+p921
+aVUniversity of Phoenix
+p922
+aVUniversity of Pikeville
+p923
+aVUniversity of Pittsburgh
+p924
+aVUniversity of Pittsburgh&ndash;Bradford
+p925
+aVUniversity of Pittsburgh&ndash;Greensburg
+p926
+aVUniversity of Pittsburgh&ndash;Johnstown
+p927
+aVUniversity of Portland
+p928
+aVUniversity of Puerto Rico&ndash;Aguadilla
+p929
+aVUniversity of Puerto Rico&ndash;Arecibo
+p930
+aVUniversity of Puerto Rico&ndash;Bayam&oacute;n
+p931
+aVUniversity of Puerto Rico&ndash;Carolina
+p932
+aVUniversity of Puerto Rico&ndash;Cayey
+p933
+aVUniversity of Puerto Rico&ndash;Ciencias M&eacute;dicas
+p934
+aVUniversity of Puerto Rico&ndash;Humacao
+p935
+aVUniversity of Puerto Rico&ndash;Mayag&uuml;ez
+p936
+aVUniversity of Puerto Rico&ndash;Ponce
+p937
+aVUniversity of Puerto Rico&ndash;R&iacute;o Piedras
+p938
+aVUniversity of Puerto Rico System
+p939
+aVUniversity of Puerto Rico&ndash;Utuado
+p940
+aVUniversity of Puget Sound
+p941
+aVUniversity of Redlands
+p942
+aVUniversity of Rhode Island
+p943
+aVUniversity of Richmond
+p944
+aVUniversity of Rio Grande
+p945
+aVUniversity of Rochester
+p946
+aVUniversity of the Rockies
+p947
+aVUniversity of St.&#160;Francis
+p948
+aVUniversity of Saint Francis
+p949
+aVUniversity of Saint Mary
+p950
+aVUniversity of San Diego
+p951
+aVUniversity of San Francisco
+p952
+aVUniversity of Science &amp; Arts of Oklahoma
+p953
+aVUniversity of the Sciences in Philadelphia
+p954
+aVUniversity of Scranton
+p955
+aVUniversity of Sioux Falls
+p956
+aVUniversity of Southern California
+p957
+aVUniversity of Southern Maine
+p958
+aVUniversity of South Carolina
+p959
+aVUniversity of South Carolina&ndash;Aiken
+p960
+aVUniversity of South Carolina&ndash;Beaufort
+p961
+aVUniversity of South Carolina System
+p962
+aVUniversity of South Carolina&ndash;Upstate
+p963
+aVUniversity of South Dakota
+p964
+aVUniversity of South Florida
+p965
+aVUniversity of South Florida Saint Petersburg
+p966
+aVUniversity of South Florida Sarasota&ndash;Manatee
+p967
+aVUniversity of Southern Mississippi
+p968
+aVUniversity of Saint Thomas
+p969
+aVUniversity of Saint Thomas
+p970
+aVUniversity of South Alabama
+p971
+aVUniversity of Southern Indiana
+p972
+aVUniversity of Tampa
+p973
+aVUniversity of Tennessee
+p974
+aVUniversity of Tennessee&ndash;Chattanooga
+p975
+aVUniversity of Tennessee Health Science Center
+p976
+aVUniversity of Tennessee&ndash;Martin
+p977
+aVUniversity of Tennessee System
+p978
+aVUniversity of Texas&ndash;Arlington
+p979
+aVUniversity of Texas&ndash;Austin
+p980
+aVUniversity of Texas&ndash;Brownsville
+p981
+aVUniversity of Texas&ndash;Dallas
+p982
+aVUniversity of Texas&ndash;El Paso
+p983
+aVUniversity of Texas Health Science Center at Houston
+p984
+aVUniversity of Texas Health Science Center at San Antonio
+p985
+aVUniversity of Texas Health Science Center at Tyler
+p986
+aVUniversity of Texas M.D. Anderson Cancer Center
+p987
+aVUniversity of Texas Medical Branch at Galveston
+p988
+aVUniversity of Texas&ndash;Pan American
+p989
+aVUniversity of Texas of the Permian Basin
+p990
+aVUniversity of Texas&ndash;San Antonio
+p991
+aVUniversity of Texas Southwestern Medical Center at Dallas
+p992
+aVUniversity of Texas System
+p993
+aVUniversity of Texas&ndash;Tyler
+p994
+aVUniversity of the Arts
+p995
+aVUniversity of the Cumberlands
+p996
+aVUniversity of the Incarnate Word
+p997
+aVUniversity of the South
+p998
+aVUniversity of the Southwest
+p999
+aVUniversity of Toledo
+p1000
+aVUniversity of Tulsa
+p1001
+aVUniversity of Utah
+p1002
+aVUniversity of Vermont
+p1003
+aVUniversity of the Virgin Islands
+p1004
+aVUniversity of Virginia
+p1005
+aVUniversity of Virginia's College at Wise
+p1006
+aVUniversity of Washington
+p1007
+aVUniversity of Washington&ndash;Bothell
+p1008
+aVUniversity of Washington&ndash;Tacoma
+p1009
+aVUniversity of West Alabama
+p1010
+aVUniversity of West Florida
+p1011
+aVUniversity of West Georgia
+p1012
+aVUniversity of Western States
+p1013
+aVUniversity of the West
+p1014
+aVUniversity of Wisconsin&ndash;Eau Claire
+p1015
+aVUniversity of Wisconsin&ndash;Green Bay
+p1016
+aVUniversity of Wisconsin&ndash;La&#160;Crosse
+p1017
+aVUniversity of Wisconsin&ndash;Madison
+p1018
+aVUniversity of Wisconsin&ndash;Milwaukee
+p1019
+aVUniversity of Wisconsin&ndash;Oshkosh
+p1020
+aVUniversity of Wisconsin&ndash;Parkside
+p1021
+aVUniversity of Wisconsin&ndash;Platteville
+p1022
+aVUniversity of Wisconsin&ndash;River Falls
+p1023
+aVUniversity of Wisconsin&ndash;Stevens Point
+p1024
+aVUniversity of Wisconsin&ndash;Stout
+p1025
+aVUniversity of Wisconsin&ndash;Superior
+p1026
+aVUniversity of Wisconsin System
+p1027
+aVUniversity of Wisconsin&ndash;Whitewater
+p1028
+aVUniversity of Wyoming
+p1029
+aVXavier University
+p1030
+aVXavier University of Louisiana
+p1031
+aVYale University
+p1032
+aVYeshiva University
+p1033
+aVYork College
+p1034
+aVYork College of Pennsylvania
+p1035
+aVYoung Harris College
+p1036
+aVYoungstown State University
+p1037
+aVBabson College
+p1038
+aVBacone College
+p1039
+aVBaldwin-Wallace College
+p1040
+aVBall State University
+p1041
+aVBaker College
+p1042
+aVBaker University
+p1043
+aVBangor Theological Seminary
+p1044
+aVBank Street College of Education
+p1045
+aVBaptist Bible College
+p1046
+aVBaptist Bible College &amp; Seminary
+p1047
+aVThe Baptist College of Florida
+p1048
+aVBaptist Memorial College of Health Sciences
+p1049
+aVBaptist Missionary Association Theological Seminary
+p1050
+aVBarclay College
+p1051
+aVBard College
+p1052
+aVBard College at Simon's Rock
+p1053
+aVBarnard College
+p1054
+aVBarry University
+p1055
+aVBarton College
+p1056
+aVBastyr University
+p1057
+aVBates College
+p1058
+aVBauder College
+p1059
+aVBay Path College
+p1060
+aVBay State College
+p1061
+aVBaylor College of Medicine
+p1062
+aVBaylor University
+p1063
+aVBeacon College
+p1064
+aVBecker College
+p1065
+aVBelhaven University
+p1066
+aVBellarmine University
+p1067
+aVBellevue College
+p1068
+aVBellevue University
+p1069
+aVBellin College
+p1070
+aVBelmont University
+p1071
+aVBelmont Abbey College
+p1072
+aVBeloit College
+p1073
+aVBemidji State University
+p1074
+aVBenedict College
+p1075
+aVBenedictine College
+p1076
+aVBenedictine University
+p1077
+aVBenjamin Franklin Institute of Technology
+p1078
+aVBennett College for Women
+p1079
+aVBennington College
+p1080
+aVBentley University
+p1081
+aVBerea College
+p1082
+aVBerkeley College
+p1083
+aVBerklee College of Music
+p1084
+aVBerry College
+p1085
+aVBethany College
+p1086
+aVBethany College
+p1087
+aVBethany Lutheran College
+p1088
+aVBethany Theological Seminary
+p1089
+aVBethel College
+p1090
+aVBethel College
+p1091
+aVBethel University &amp; Seminary
+p1092
+aVBethel University
+p1093
+aVBethesda University of California
+p1094
+aVBethune-Cookman University
+p1095
+aVBeulah Heights University
+p1096
+aVBiblical Theological Seminary
+p1097
+aVBiola University
+p1098
+aVBirmingham-Southern College
+p1099
+aVBismark State College
+p1100
+aVBlack Hills State University
+p1101
+aVBlackburn College
+p1102
+aVBlessing-Rieman College of Nursing
+p1103
+aVBloomfield College
+p1104
+aVBloomsburg University of Pennsylvania
+p1105
+aVBlue Mountain College
+p1106
+aVBluefield College
+p1107
+aVBluefield State College
+p1108
+aVBluffton University
+p1109
+aVBoise State University
+p1110
+aVBoricua College
+p1111
+aVBoston Architectural College
+p1112
+aVBoston College
+p1113
+aVBoston Conservatory
+p1114
+aVBoston Graduate School of Psychoanalysis
+p1115
+aVBoston University
+p1116
+aVBowdoin College
+p1117
+aVBowie State University
+p1118
+aVBowling Green State University
+p1119
+aVBradley University
+p1120
+aVBrandeis University
+p1121
+aVBrandman University
+p1122
+aVBrenau University
+p1123
+aVBrescia University
+p1124
+aVBrevard College
+p1125
+aVBrewton-Parker College
+p1126
+aVBriar Cliff University
+p1127
+aVBriarcliffe College
+p1128
+aVBridgewater College
+p1129
+aVBridgewater State University
+p1130
+aVBrigham Young University
+p1131
+aVBrigham Young University&ndash;Hawaii
+p1132
+aVBrigham Young University&ndash;Idaho
+p1133
+aVBrite Divinity School
+p1134
+aVBroward College
+p1135
+aVBrown University
+p1136
+aVBryan College
+p1137
+aVBryan College of Health Sciences
+p1138
+aVBryant University
+p1139
+aVBryn Athyn College of the New Church
+p1140
+aVBryn Mawr College
+p1141
+aVBucknell University
+p1142
+aVBuena Vista University
+p1143
+aVBurlington College
+p1144
+aVButler University
+p1145
+aVCabarrus College of Health Sciences
+p1146
+aVCabrini College
+p1147
+aVCairn University
+p1148
+aVCaldwell College
+p1149
+aVCalifornia Baptist University
+p1150
+aVCalifornia College of the Arts
+p1151
+aVCalifornia Institute of the Arts
+p1152
+aVCalifornia Institute of Integral Studies
+p1153
+aVCalifornia Institute of Technology
+p1154
+aVCalifornia Lutheran University
+p1155
+aVCalifornia Maritime Academy
+p1156
+aVCalifornia Polytechnic State University, San Luis Obispo
+p1157
+aVCalifornia State Polytechnic University, Pomona
+p1158
+aVCalifornia State University&ndash;Bakersfield
+p1159
+aVCalifornia State University&ndash;Channel Islands
+p1160
+aVCalifornia State University&ndash;Chico
+p1161
+aVCalifornia State University&ndash;Dominguez Hills
+p1162
+aVCalifornia State University&ndash;East Bay
+p1163
+aVCalifornia State University&ndash;Fresno
+p1164
+aVCalifornia State University&ndash;Fullerton
+p1165
+aVCalifornia State University&ndash;Long Beach
+p1166
+aVCalifornia State University&ndash;Los Angeles
+p1167
+aVCalifornia State University&ndash;Monterey Bay
+p1168
+aVCalifornia State University&ndash;Northridge
+p1169
+aVCalifornia State University&ndash;Sacramento
+p1170
+aVCalifornia State University&ndash;San Bernardino
+p1171
+aVCalifornia State University&ndash;San Marcos
+p1172
+aVCalifornia State University&ndash;Stanislaus
+p1173
+aVCalifornia State University System
+p1174
+aVCalifornia University of Pennsylvania
+p1175
+aVCalumet College of Saint Joseph
+p1176
+aVCalvary Baptist Seminary
+p1177
+aVCalvary Bible College &amp; Theological Seminary
+p1178
+aVCalvin College
+p1179
+aVCambridge College
+p1180
+aVCameron University
+p1181
+aVCampbell University
+p1182
+aVCampbellsville University
+p1183
+aVCanisius College
+p1184
+aVCapella University
+p1185
+aVCapital University
+p1186
+aVCapitol College
+p1187
+aVCardinal Stritch University
+p1188
+aVCaribbean University
+p1189
+aVCarleton College
+p1190
+aVCarlos Albizu University
+p1191
+aVCarlos Albizu University&ndash;Miami Campus
+p1192
+aVCarlow University
+p1193
+aVCarnegie Mellon University
+p1194
+aVCarroll College
+p1195
+aVCarroll University
+p1196
+aVCarson-Newman College
+p1197
+aVCarthage College
+p1198
+aVCase Western Reserve University
+p1199
+aVCastleton State College
+p1200
+aVCatawba College
+p1201
+aVCatholic Theological Union
+p1202
+aVThe Catholic University of America
+p1203
+aVCazenovia College
+p1204
+aVCedar Crest College
+p1205
+aVCedarville University
+p1206
+aVCentenary College
+p1207
+aVCentenary College of Louisiana
+p1208
+aVCentral Baptist College
+p1209
+aVCentral Baptist Theological Seminary
+p1210
+aVCentral Christian College of Kansas
+p1211
+aVCentral Christian College of the Bible
+p1212
+aVCentral College
+p1213
+aVCentral Connecticut State University
+p1214
+aVCentral Methodist University
+p1215
+aVCentral Michigan University
+p1216
+aVCentral Penn College
+p1217
+aVCentral State University
+p1218
+aVCentral Washington University
+p1219
+aVCentre College
+p1220
+aVCentro de Estudios Avanzados de Puerto Rico y el Caribe
+p1221
+aVChadron State College
+p1222
+aVChamberlain College of Nursing
+p1223
+aVChaminade University
+p1224
+aVChamplain College
+p1225
+aVChancellor University
+p1226
+aVChapman University
+p1227
+aVCharles R. Drew University of Medicine &amp; Science
+p1228
+aVCharleston Southern University
+p1229
+aVCharter Oak State College
+p1230
+aVChatham College
+p1231
+aVChester College of New England
+p1232
+aVChestnut Hill College
+p1233
+aVCheyney University
+p1234
+aVThe Chicago School of Professional Psychology
+p1235
+aVChicago State University
+p1236
+aVChicago Theological Seminary
+p1237
+aVChipola College
+p1238
+aVChowan College
+p1239
+aVChrist the King Seminary
+p1240
+aVChristendom College
+p1241
+aVChristian Brothers University
+p1242
+aVChristian Theological Seminary
+p1243
+aVChristopher Newport University
+p1244
+aVChurch Divinity School of the Pacific
+p1245
+aVCincinnati College of Mortuary Science
+p1246
+aVThe Citadel
+p1247
+aVCity University of Seattle
+p1248
+aVBaruch College
+p1249
+aVBrooklyn College
+p1250
+aVCity College
+p1251
+aVCollege of Staten Island
+p1252
+aVGraduate School &amp; University Center
+p1253
+aVHunter College
+p1254
+aVJohn Jay College of Criminal Justice
+p1255
+aVLehman College
+p1256
+aVMedgar Evers College
+p1257
+aVNew York City College of Technology
+p1258
+aVQueens College
+p1259
+aVYork College
+p1260
+aVClaflin University
+p1261
+aVClaremont Consortium of Colleges
+p1262
+aVClaremont Graduate University
+p1263
+aVClaremont McKenna College
+p1264
+aVHarvey Mudd College
+p1265
+aVKeck Graduate Institute of Applied Life Sciences
+p1266
+aVPitzer College
+p1267
+aVPomona College
+p1268
+aVScripps College
+p1269
+aVClaremont School of Theology
+p1270
+aVClarion University of Pennsylvania
+p1271
+aVClark University
+p1272
+aVClark Atlanta University
+p1273
+aVClarke University
+p1274
+aVClarkson College
+p1275
+aVClarkson University
+p1276
+aVClayton State University
+p1277
+aVClear Creek Baptist Bible College
+p1278
+aVClearwater Christian College
+p1279
+aVCleary University
+p1280
+aVClemson University
+p1281
+aVCleveland Chiropractic College
+p1282
+aVCleveland Institute of Art
+p1283
+aVCleveland Institute of Music
+p1284
+aVCleveland State University
+p1285
+aVCoastal Carolina University
+p1286
+aVCoe College
+p1287
+aVCogswell Polytechnical College
+p1288
+aVCoker College
+p1289
+aVColby College
+p1290
+aVColby-Sawyer College
+p1291
+aVColegio Universitario de San Juan
+p1292
+aVColgate University
+p1293
+aVCollege for Creative Studies
+p1294
+aVCollege for Financial Planning
+p1295
+aVCollege of the Atlantic
+p1296
+aVCollege of Central Florida
+p1297
+aVCollege of Charleston
+p1298
+aVCollege of Coastal Georgia
+p1299
+aVCollege of the Holy Cross
+p1300
+aVThe College of Idaho
+p1301
+aVCollege of the Menominee Nation
+p1302
+aVCollege of Mount Saint Joseph
+p1303
+aVCollege of Mount Saint Vincent
+p1304
+aVThe College of New Jersey
+p1305
+aVCollege of New Rochelle
+p1306
+aVCollege of Notre Dame of Maryland
+p1307
+aVCollege of the Ozarks
+p1308
+aVCollege of Saint Benedict
+p1309
+aVCollege of Saint Elizabeth
+p1310
+aVCollege of Saint Rose
+p1311
+aVCollege of Saint Joseph
+p1312
+aVCollege of Saint Mary
+p1313
+aVCollege of Saint Scholastica
+p1314
+aVCollege of Saints John Fisher &amp; Thomas More
+p1315
+aVCollege of Southern Nevada
+p1316
+aVCollege of Visual Arts
+p1317
+aVCollege of William and Mary
+p1318
+aVCollege of Wooster
+p1319
+aVColorado Christian University
+p1320
+aVColorado College
+p1321
+aVColorado Mesa University
+p1322
+aVColorado School of Mines
+p1323
+aVColorado State University
+p1324
+aVColorado State University&ndash;Pueblo
+p1325
+aVColorado Technical University
+p1326
+aVColumbia Centro Universitario
+p1327
+aVColumbia College
+p1328
+aVColumbia College
+p1329
+aVColumbia College Chicago
+p1330
+aVColumbia College of Nursing
+p1331
+aVColumbia International University
+p1332
+aVColumbia Theological Seminary
+p1333
+aVColumbia University
+p1334
+aVColumbus College of Art &amp; Design
+p1335
+aVColumbus State University
+p1336
+aVConception Seminary College
+p1337
+aVConcord University
+p1338
+aVConcordia College&ndash;Alabama
+p1339
+aVConcordia College&ndash;Bronxville
+p1340
+aVConcordia College&ndash;Moorhead
+p1341
+aVConcordia College&ndash;New York
+p1342
+aVConcordia Seminary&ndash;Saint Louis
+p1343
+aVConcordia Theological Seminary
+p1344
+aVConcordia University&ndash;Ann Arbor
+p1345
+aVConcordia University&ndash;Chicago
+p1346
+aVConcordia University&ndash;Irvine
+p1347
+aVConcordia University&ndash;Nebraska
+p1348
+aVConcordia University&ndash;Portland
+p1349
+aVConcordia University&ndash;Saint Paul
+p1350
+aVConcordia University&ndash;Texas
+p1351
+aVConcordia University&ndash;Wisconsin
+p1352
+aVConnecticut College
+p1353
+aVConservatorio de M&uacute;sica de Puerto Rico
+p1354
+aVConverse College
+p1355
+aVConway School of Landscape Design
+p1356
+aVThe Cooper Union for the Advancement of Science &amp; Art
+p1357
+aVCoppin State University
+p1358
+aVCorban University
+p1359
+aVCorcoran College of Art &amp; Design
+p1360
+aVCornell College
+p1361
+aVCornell University
+p1362
+aVCornerstone University
+p1363
+aVCornish College of the Arts
+p1364
+aVCovenant College
+p1365
+aVCovenant Theological Seminary
+p1366
+aVCox College
+p1367
+aVCranbrook Academy of Art
+p1368
+aVCreighton University
+p1369
+aVCriswell College
+p1370
+aVCrossroads College
+p1371
+aVCrowley's Ridge College
+p1372
+aVCrown College
+p1373
+aVCulinary Institute of America
+p1374
+aVCulver-Stockton College
+p1375
+aVCumberland University
+p1376
+aVCurry College
+p1377
+aVCurtis Institute of Music
+p1378
+aVHamilton College
+p1379
+aVHamline University
+p1380
+aVHampden-Sydney College
+p1381
+aVHampshire College
+p1382
+aVHampton University
+p1383
+aVHannibal-Lagrange College
+p1384
+aVHanover College
+p1385
+aVHardin-Simmons University
+p1386
+aVHarding University
+p1387
+aVHarrington College of Design
+p1388
+aVHarris-Stowe State University
+p1389
+aVHarrisburg University of Science &amp; Technology
+p1390
+aVHartford Seminary
+p1391
+aVHartwick College
+p1392
+aVHarvard University
+p1393
+aVHaskell Indian Nations University
+p1394
+aVHastings College
+p1395
+aVHaverford College
+p1396
+aVHawaii Pacific University
+p1397
+aVHazelden Graduate School of Addiction Studies
+p1398
+aVHebrew College
+p1399
+aVHebrew Theological College
+p1400
+aVHebrew Union College&ndash;Jewish Institute of Religion
+p1401
+aVHeidelberg College
+p1402
+aVHellenic College/Holy Cross Greek Orthodox School of Theology
+p1403
+aVHenderson State University
+p1404
+aVHendrix College
+p1405
+aVHeritage University
+p1406
+aVHerzing University
+p1407
+aVHigh Point University
+p1408
+aVHilbert College
+p1409
+aVHillsdale College
+p1410
+aVHiram College
+p1411
+aVHobart &amp; William Smith Colleges
+p1412
+aVHobe Sound Bible College
+p1413
+aVHodges University
+p1414
+aVHofstra University
+p1415
+aVHollins University
+p1416
+aVHoly Apostles College &amp; Seminary
+p1417
+aVHoly Cross College
+p1418
+aVHoly Family University
+p1419
+aVHoly Names University
+p1420
+aVHood College
+p1421
+aVHope College
+p1422
+aVHope International University
+p1423
+aVHoughton College
+p1424
+aVHouston Baptist University
+p1425
+aVHoward Payne University
+p1426
+aVHoward University
+p1427
+aVHult International Business School
+p1428
+aVHumboldt State University
+p1429
+aVHumphreys College
+p1430
+aVHuntingdon College
+p1431
+aVHuntington University
+p1432
+aVHusson University
+p1433
+aVHuston-Tillotson University
+p1434
+aVKalamazoo College
+p1435
+aVKansas City Art Institute
+p1436
+aVKansas City University of Medicine &amp; Biosciences
+p1437
+aVKansas State University
+p1438
+aVKansas State University&ndash;Salina
+p1439
+aVKansas Wesleyan University
+p1440
+aVKaplan University
+p1441
+aVKean University
+p1442
+aVKeene State College
+p1443
+aVKeiser University
+p1444
+aVKendall College
+p1445
+aVKendall College of Art &amp; Design of Ferris State University
+p1446
+aVKennesaw State University
+p1447
+aVKenrick-Glennon Seminary
+p1448
+aVKent State University
+p1449
+aVKent State University&ndash;Ashtabula Campus
+p1450
+aVKent State University&ndash;College of Podiatric Medicine
+p1451
+aVKent State University&ndash;Columbiana County
+p1452
+aVKent State University&ndash;Geauga
+p1453
+aVKent State University&ndash;Stark
+p1454
+aVKent State University&ndash;Trumbull Campus
+p1455
+aVKent State University&ndash;Tuscarawas
+p1456
+aVKentucky Christian University
+p1457
+aVKentucky Mountain Bible College
+p1458
+aVKentucky State University
+p1459
+aVKentucky Wesleyan College
+p1460
+aVKenyon College
+p1461
+aVKettering College
+p1462
+aVKettering University
+p1463
+aVKeuka College
+p1464
+aVKeystone College
+p1465
+aVKing College
+p1466
+aVKing's College
+p1467
+aVThe King's College
+p1468
+aVKnowledge Systems Institute
+p1469
+aVKnox College
+p1470
+aVKutztown University of Pennsylvania
+p1471
+aVKuyper College
+p1472
+aVMacalester College
+p1473
+aVMacMurray College
+p1474
+aVMacon State College
+p1475
+aVMadonna University
+p1476
+aVMaharishi University of Management
+p1477
+aVMaine College of Art
+p1478
+aVMaine Maritime Academy
+p1479
+aVMalone University
+p1480
+aVManchester University
+p1481
+aVManhattan Christian College
+p1482
+aVManhattan College
+p1483
+aVManhattan School of Music
+p1484
+aVManhattanville  College
+p1485
+aVMansfield University of Pennsylvania
+p1486
+aVMaranatha Baptist Bible College
+p1487
+aVMarian University
+p1488
+aVMarian University
+p1489
+aVMarietta College
+p1490
+aVMarine Corps University
+p1491
+aVMarist College
+p1492
+aVMarlboro College
+p1493
+aVMarquette University
+p1494
+aVMars Hill College
+p1495
+aVMarshall University
+p1496
+aVMartin Luther College
+p1497
+aVMartin Methodist College
+p1498
+aVMartin University
+p1499
+aVMary Baldwin College
+p1500
+aVMarygrove College
+p1501
+aVMaryland institute College of Art
+p1502
+aVMarylhurst University
+p1503
+aVMarymount California University
+p1504
+aVMarymount Manhattan College
+p1505
+aVMarymount University
+p1506
+aVMaryville College
+p1507
+aVMaryville University of Saint Louis
+p1508
+aVMarywood University
+p1509
+aVMassachusetts College of Art &amp; Design
+p1510
+aVMassachusetts College of Liberal Arts
+p1511
+aVMassachusetts College of Pharmacy &amp; Health Sciences
+p1512
+aVMassachusetts Institute of Technology
+p1513
+aVMassachusetts Maritime Academy
+p1514
+aVMassachusetts School of Law
+p1515
+aVMassachusetts School of Professional Psychology
+p1516
+aVThe Master's College
+p1517
+aVThe Master's Seminary
+p1518
+aVMaui College
+p1519
+aVMayo Clinic College of Medicine
+p1520
+aVMayo Clinic College of Medicine&ndash;Graduate School
+p1521
+aVMayo Clinic College of Medicine&ndash;Medical School
+p1522
+aVMayo Clinic College of Medicine&ndash;School of Health Sciences
+p1523
+aVMayville State University
+p1524
+aVMcCormick Theological Seminary
+p1525
+aVMcDaniel College
+p1526
+aVMcKendree University
+p1527
+aVMcMurry University
+p1528
+aVMcNeese State University
+p1529
+aVMcPherson College
+p1530
+aVMedaille College
+p1531
+aVMedical College of Wisconsin
+p1532
+aVMedical University of South Carolina
+p1533
+aVMeharry Medical College
+p1534
+aVMemphis College of Art
+p1535
+aVMemphis Theological Seminary
+p1536
+aVMenlo College
+p1537
+aVMercer University
+p1538
+aVMercy College
+p1539
+aVMercy College of Health Sciences
+p1540
+aVMercy College of Northwest Ohio
+p1541
+aVMercyhurst College
+p1542
+aVMeredith College
+p1543
+aVMerrimack College
+p1544
+aVMessiah College
+p1545
+aVMethodist College
+p1546
+aVMethodist Theological School in Ohio
+p1547
+aVMethodist University
+p1548
+aVMetropolitan College of New York
+p1549
+aVMetropolitan State College of Denver
+p1550
+aVMetropolitan State University
+p1551
+aVMGH Institute of Health Professions
+p1552
+aVMiami Dade College
+p1553
+aVMiami International University of Art &amp; Design
+p1554
+aVMiami University
+p1555
+aVMiami University&ndash;Regional Campuses
+p1556
+aVMichigan School of Professional Psychology
+p1557
+aVMichigan State University
+p1558
+aVMichigan Technological University
+p1559
+aVMid-America Baptist Theological Seminary
+p1560
+aVMid-America Christian University
+p1561
+aVMid-Atlantic Christian University
+p1562
+aVMidAmerica Nazarene University
+p1563
+aVMid-Continent University
+p1564
+aVMiddle Georgia College
+p1565
+aVMiddle Tennessee School of Anesthesia
+p1566
+aVMiddle Tennessee State University
+p1567
+aVMiddlebury College
+p1568
+aVMidland University
+p1569
+aVMidstate College
+p1570
+aVMidway College
+p1571
+aVMidwestern Baptist Theological Seminary
+p1572
+aVMidwestern University
+p1573
+aVMidwestern State University
+p1574
+aVMiles College
+p1575
+aVMiller College
+p1576
+aVMillersville University of Pennsylvania
+p1577
+aVMilligan College
+p1578
+aVMillikin University
+p1579
+aVMills College
+p1580
+aVMillsaps College
+p1581
+aVMilwaukee Institute of Art &amp; Design
+p1582
+aVMilwaukee School of Engineering
+p1583
+aVMinnesota State University&ndash;Mankato
+p1584
+aVMinnesota State University&ndash;Moorhead
+p1585
+aVMinot State University
+p1586
+aVMinneapolis College of Art &amp; Design
+p1587
+aVMisericordia University
+p1588
+aVMississippi College
+p1589
+aVMississippi State University
+p1590
+aVMississippi University for Women
+p1591
+aVMississippi Valley State University
+p1592
+aVMissouri Baptist University
+p1593
+aVMissouri Southern State University
+p1594
+aVMissouri State University
+p1595
+aVMissouri University of Science &amp; Technology
+p1596
+aVMissouri Valley College
+p1597
+aVMissouri Western State University
+p1598
+aVMitchell College
+p1599
+aVMolloy College
+p1600
+aVMonmouth College
+p1601
+aVMonmouth University
+p1602
+aVMonroe College
+p1603
+aVMontana State University
+p1604
+aVMontana State University&ndash;Billings
+p1605
+aVMontana State University&ndash;Northern
+p1606
+aVMontana Tech of The University of Montana
+p1607
+aVMontclair State University
+p1608
+aVMontreat College
+p1609
+aVMontserrat College of Art
+p1610
+aVMoody Bible Institute
+p1611
+aVMoore College of Art &amp; Design
+p1612
+aVMoravian College
+p1613
+aVMorehead State University
+p1614
+aVMorehouse College
+p1615
+aVMorehouse School of Medicine
+p1616
+aVMorgan State University
+p1617
+aVMorningside College
+p1618
+aVMorris College
+p1619
+aVMount Aloysius College
+p1620
+aVMount Angel Seminary
+p1621
+aVMount Carmel College of Nursing
+p1622
+aVMount Holyoke College
+p1623
+aVMount Ida College
+p1624
+aVMount Marty College
+p1625
+aVMount Mary College
+p1626
+aVMount Mercy University
+p1627
+aVMount Olive College
+p1628
+aVMount Saint Mary College
+p1629
+aVMount Saint Mary's College
+p1630
+aVMount Saint Mary's University
+p1631
+aVMount Vernon Nazarene University
+p1632
+aVMount Washington College
+p1633
+aVMountain State University
+p1634
+aVMuhlenberg College
+p1635
+aVMultnomah University
+p1636
+aVMurray State University
+p1637
+aVMuskingum University
+p1638
+aVOak Hills Christian College
+p1639
+aVOakland City University
+p1640
+aVOakland University
+p1641
+aVOakwood University
+p1642
+aVOberlin College
+p1643
+aVOblate School of Theology
+p1644
+aVOccidental College
+p1645
+aVOglala Lakota College
+p1646
+aVOglethorpe University
+p1647
+aVOhio Christian University
+p1648
+aVOhio Dominican University
+p1649
+aVOhio Northern University
+p1650
+aVOhio State University
+p1651
+aVOhio State University&ndash;Lima
+p1652
+aVOhio State University&ndash;Mansfield
+p1653
+aVOhio State University&ndash;Marion
+p1654
+aVOhio State University&ndash;Newark
+p1655
+aVOhio University
+p1656
+aVOhio University&ndash;Eastern Campus
+p1657
+aVOhio University&ndash;Lancaster
+p1658
+aVOhio University&ndash;Zanesville
+p1659
+aVOhio Valley University
+p1660
+aVOhio Wesleyan University
+p1661
+aVOklahoma Baptist University
+p1662
+aVOklahoma Christian University
+p1663
+aVOklahoma City University
+p1664
+aVOklahoma Panhandle State University
+p1665
+aVOklahoma State University
+p1666
+aVOklahoma State University&ndash;Center for Health Sciences
+p1667
+aVOklahoma State University&ndash;Institute of Technology
+p1668
+aVOklahoma State University&ndash;Oklahoma City
+p1669
+aVOklahoma State University&ndash;Tulsa
+p1670
+aVOklahoma Wesleyan University
+p1671
+aVOld Dominion University
+p1672
+aVOlivet College
+p1673
+aVOlivet Nazarene University
+p1674
+aVOlivet University
+p1675
+aVOlympic College
+p1676
+aVOral Roberts University
+p1677
+aVOregon College of Art &amp; Craft
+p1678
+aVOregon Health &amp; Science University
+p1679
+aVOregon Institute of Technology
+p1680
+aVOregon State University
+p1681
+aVOtis College of Art &amp; Design
+p1682
+aVOttawa University
+p1683
+aVOtterbein University
+p1684
+aVOuachita Baptist University
+p1685
+aVOur Lady of Holy Cross College
+p1686
+aVOur Lady of the Lake College
+p1687
+aVOur Lady of the Lake University
+p1688
+aVOzark Christian College
+p1689
+aVQueens University of Charlotte
+p1690
+aVQuincy University
+p1691
+aVQuinnipiac University
+p1692
+aVRadford University
+p1693
+aVRamapo College of New Jersey
+p1694
+aVRandolph College
+p1695
+aVRandolph-Macon College
+p1696
+aVRanken Technical College
+p1697
+aVRasmussen College
+p1698
+aVReconstructionist Rabbinical College
+p1699
+aVReed College
+p1700
+aVReformed Theological Seminary
+p1701
+aVRegent University
+p1702
+aVRegis College
+p1703
+aVRegis University
+p1704
+aVReinhardt University
+p1705
+aVRensselaer Polytechnic Institute
+p1706
+aVResearch College of Nursing
+p1707
+aVResurrection University
+p1708
+aVRhode Island College
+p1709
+aVRhode Island School of Design
+p1710
+aVRhodes College
+p1711
+aVRice University
+p1712
+aVRichard Stockton College of New Jersey
+p1713
+aVRichmont Graduate University
+p1714
+aVRider University
+p1715
+aVRingling College of Art &amp; Design
+p1716
+aVRipon College
+p1717
+aVRivier University
+p1718
+aVRoanoke College
+p1719
+aVRobert Morris University
+p1720
+aVRobert Morris University&ndash;Illinois
+p1721
+aVRoberts Wesleyan College
+p1722
+aVRochester College
+p1723
+aVRochester Institute of Technology
+p1724
+aVRockford University
+p1725
+aVRockhurst University
+p1726
+aVRocky Mountain College
+p1727
+aVRocky Mountain College of Art &amp; Design
+p1728
+aVRoger Williams University
+p1729
+aVRogers State University
+p1730
+aVRollins College
+p1731
+aVRoosevelt University
+p1732
+aVRosalind Franklin University of Medicine &amp; Science
+p1733
+aVRose-Hulman Institute of Technology
+p1734
+aVRoseman University of Health Sciences
+p1735
+aVRosemont College
+p1736
+aVRowan University
+p1737
+aVRush University
+p1738
+aVRust College
+p1739
+aVRutgers University&ndash;Camden
+p1740
+aVRutgers University&ndash;New Brunswick
+p1741
+aVRutgers University&ndash;Newark
+p1742
+aVTabor College
+p1743
+aVTai Sophia Institute
+p1744
+aVTalladega College
+p1745
+aVTarleton State University
+p1746
+aVTaylor University
+p1747
+aVTCM International Institute
+p1748
+aVTeachers College, Columbia University
+p1749
+aVTemple University
+p1750
+aVTennessee State University
+p1751
+aVTennessee Technological University
+p1752
+aVTennessee Wesleyan College
+p1753
+aVTexas A&amp;M International University
+p1754
+aVTexas A&amp;M University
+p1755
+aVTexas A&amp;M University&ndash;Central Texas
+p1756
+aVTexas A&amp;M University&ndash;Commerce
+p1757
+aVTexas A&amp;M University&ndash;Corpus Christi
+p1758
+aVTexas A&amp;M University&ndash;Galveston
+p1759
+aVTexas A&amp;M University Health Science Center
+p1760
+aVTexas A&amp;M University&ndash;Kingsville
+p1761
+aVTexas A&amp;M University&ndash;San Antonio
+p1762
+aVTexas A&amp;M University&ndash;Texarkana
+p1763
+aVTexas Chiropractic College
+p1764
+aVTexas Christian University
+p1765
+aVTexas College
+p1766
+aVTexas Lutheran University
+p1767
+aVTexas Southern University
+p1768
+aVTexas State University&ndash;San Marcos
+p1769
+aVTexas Tech University
+p1770
+aVTexas Tech University Health Sciences Center
+p1771
+aVTexas Wesleyan University
+p1772
+aVTexas Woman's University
+p1773
+aVThiel College
+p1774
+aVThomas Aquinas College
+p1775
+aVThomas University
+p1776
+aVThomas College
+p1777
+aVThomas Edison State College
+p1778
+aVThomas Jefferson University
+p1779
+aVThomas M. Cooley Law School
+p1780
+aVThomas More College
+p1781
+aVThe Thomas More College of Liberal Arts
+p1782
+aVThunderbird School of Global Management
+p1783
+aVTiffin University
+p1784
+aVToccoa Falls College
+p1785
+aVTougaloo College
+p1786
+aVTouro College
+p1787
+aVTouro College Los Angeles
+p1788
+aVTouro University California
+p1789
+aVTouro University Nevada
+p1790
+aVTouro University Worldwide
+p1791
+aVTowson University
+p1792
+aVToyota Technological Institute at Chicago
+p1793
+aVTransylvania University
+p1794
+aVTrevecca Nazarene University
+p1795
+aVTrident University International
+p1796
+aVTrine University
+p1797
+aVTrinity Bible College
+p1798
+aVTrinity Christian College
+p1799
+aVTrinity College
+p1800
+aVTrinity College of Nursing &amp; Health Sciences
+p1801
+aVTrinity Lutheran Seminary
+p1802
+aVTrinity University
+p1803
+aVTrinity College of Florida
+p1804
+aVTrinity International University
+p1805
+aVTrinity Lutheran College
+p1806
+aVTrinity University
+p1807
+aVTroy University
+p1808
+aVTruett-McConnell College
+p1809
+aVTruman State University
+p1810
+aVTufts University
+p1811
+aVTulane University
+p1812
+aVTurtle Mountain Community College
+p1813
+aVTusculum College
+p1814
+aVTuskegee University
+p1815
+aVUnification Theological Seminary
+p1816
+aVUniformed Services University of the Health Sciences
+p1817
+aVUnion College
+p1818
+aVUnion College
+p1819
+aVUnion College
+p1820
+aVUnion Graduate College
+p1821
+aVUnion Institute &amp; University
+p1822
+aVUnion Presbyterian Seminary
+p1823
+aVUnion Theological Seminary
+p1824
+aVUnion University
+p1825
+aVUnited States Air Force Academy
+p1826
+aVUnited States Army Command &amp; General Staff College
+p1827
+aVUnited States Army War College
+p1828
+aVUnited States Coast Guard Academy
+p1829
+aVUnited States Merchant Marine Academy
+p1830
+aVUnited States Military Academy
+p1831
+aVUnited States Naval Academy
+p1832
+aVUnited States Naval War College
+p1833
+aVUnited States Sports Academy
+p1834
+aVUnited States University
+p1835
+aVUnited Theological Seminary
+p1836
+aVUnited Theological Seminary of the Twin Cities
+p1837
+aVUnity College
+p1838
+aVUniversidad Adventista de las Antillas
+p1839
+aVUniversidad Central de Bayam&oacute;n
+p1840
+aVUniversidad Central del Caribe
+p1841
+aVUniversidad del Sagrado Coraz&oacute;n
+p1842
+aVUniversidad Interamericana de Puerto Rico
+p1843
+aVAguadilla Campus
+p1844
+aVArecibo Campus
+p1845
+aVBarranquitas Campus
+p1846
+aVBayam&oacute;n Campus
+p1847
+aVFajardo Campus
+p1848
+aVGuayama Campus
+p1849
+aVMetropolitan Campus
+p1850
+aVPonce Campus
+p1851
+aVSan Germ&aacute;n Campus
+p1852
+aVSchool of Law
+p1853
+aVSchool of Optometry
+p1854
+aVUniversidad Politecnica de Puerto Rico
+p1855
+aVUniversity System of Maryland
+p1856
+aVUpper Iowa University
+p1857
+aVUrbana University
+p1858
+aVUrsinus College
+p1859
+aVUrsuline College
+p1860
+aVUtah State University
+p1861
+aVUtah Valley University
+p1862
+aVUtica College
+p1863
+aVUniversity of Advancing Technology
+p1864
+aVUniversity of Akron
+p1865
+aVUniversity of Alabama
+p1866
+aVUniversity of Alabama&ndash;Birmingham
+p1867
+aVUniversity of Alabama&ndash;Huntsville
+p1868
+aVUniversity of Alaska System
+p1869
+aVAnchorage
+p1870
+aVFairbanks
+p1871
+aVSoutheast
+p1872
+aVUniversity of Arizona
+p1873
+aVUniversity of Arkansas
+p1874
+aVUniversity of Arkansas&ndash;Fort Smith
+p1875
+aVUniversity of Arkansas&ndash;Little Rock
+p1876
+aVUniversity of Arkansas for Medical Sciences
+p1877
+aVUniversity of Arkansas&ndash;Monticello
+p1878
+aVUniversity of Arkansas&ndash;Pine Bluff
+p1879
+aVUniversity of Arkansas System
+p1880
+aVUniversity of Baltimore
+p1881
+aVUniversity of Bridgeport
+p1882
+aVUniversity of California&ndash;Berkeley
+p1883
+aVUniversity of California&ndash;Davis
+p1884
+aVUniversity of California Hastings College of the Law
+p1885
+aVUniversity of California&ndash;Irvine
+p1886
+aVUniversity of California&ndash;Los Angeles
+p1887
+aVUniversity of California&ndash;Merced
+p1888
+aVUniversity of California&ndash;Riverside
+p1889
+aVUniversity of California&ndash;San Diego
+p1890
+aVUniversity of California&ndash;San Francisco
+p1891
+aVUniversity of California&ndash;Santa Barbara
+p1892
+aVUniversity of California&ndash;Santa Cruz
+p1893
+aVUniversity of California System
+p1894
+aVUniversity of Central Arkansas
+p1895
+aVUniversity of Central Florida
+p1896
+aVUniversity of Central Missouri
+p1897
+aVUniversity of Central Oklahoma
+p1898
+aVUniversity of Charleston
+p1899
+aVUniversity of Chicago
+p1900
+aVUniversity of Cincinnati
+p1901
+aVUniversity of Cincinnati&ndash;Blue Ash
+p1902
+aVUniversity of Colorado&ndash;Boulder
+p1903
+aVUniversity of Colorado&ndash;Colorado Springs
+p1904
+aVUniversity of Colorado&ndash;Denver
+p1905
+aVUniversity of Colorado System
+p1906
+aVUniversity of Connecticut
+p1907
+aVUniversity of Dallas
+p1908
+aVUniversity of Dayton
+p1909
+aVUniversity of Delaware
+p1910
+aVUniversity of Denver
+p1911
+aVUniversity of the District of Columbia
+p1912
+aVUniversity of Detroit Mercy
+p1913
+aVUniversity of Dubuque
+p1914
+aVUniversity of Evansville
+p1915
+aVThe University of Findlay
+p1916
+aVUniversity of Florida
+p1917
+aVUniversity of Georgia
+p1918
+aVUniversity of Great Falls
+p1919
+aVUniversity of Guam
+p1920
+aVUniversity of Hartford
+p1921
+aVUniversity of Hawaii&ndash;Hilo
+p1922
+aVUniversity of Hawaii&ndash;Manoa
+p1923
+aVUniversity of Hawaii System
+p1924
+aVUniversity of Hawaii&ndash;West O'ahu
+p1925
+aVUniversity of Houston
+p1926
+aVUniversity of Houston&ndash;Clear Lake
+p1927
+aVUniversity of Houston&ndash;Downtown
+p1928
+aVUniversity of Houston&ndash;Victoria
+p1929
+aVUniversity of Idaho
+p1930
+aVUniversity of Illinois&ndash;Chicago
+p1931
+aVUniversity of Illinois&ndash;Springfield
+p1932
+aVUniversity of Illinois System
+p1933
+aVUniversity of Illinois&ndash;Urbana-Champaign
+p1934
+aVUniversity of Indianapolis
+p1935
+aVUniversity of Iowa
+p1936
+aVUniversity of Kansas
+p1937
+aVUniversity of Kansas Medical Center
+p1938
+aVUniversity of Kentucky
+p1939
+aVUniversity of La Verne
+p1940
+aVUniversity of Louisiana&ndash;Monroe
+p1941
+aVUniversity of Louisiana&ndash;Lafayette
+p1942
+aVUniversity of Louisville
+p1943
+aVUniversity of Maine
+p1944
+aVUniversity of Maine&ndash;Augusta
+p1945
+aVUniversity of Maine&ndash;Farmington
+p1946
+aVUniversity of Maine&ndash;Fort Kent
+p1947
+aVUniversity of Maine&ndash;Machias
+p1948
+aVUniversity of Maine&ndash;Presque Isle
+p1949
+aVUniversity of Maine School of Law
+p1950
+aVUniversity of Maine System
+p1951
+aVUniversity of Mary
+p1952
+aVUniversity of Mary Hardin-Baylor
+p1953
+aVUniversity of Mary Washington
+p1954
+aVUniversity of Maryland&ndash;Baltimore
+p1955
+aVUniversity of Maryland&ndash;Baltimore County
+p1956
+aVUniversity of Maryland&ndash;College Park
+p1957
+aVUniversity of Maryland&ndash;Eastern Shore
+p1958
+aVUniversity of Maryland&ndash;University College
+p1959
+aVUniversity of Massachusetts&ndash;Amherst
+p1960
+aVUniversity of Massachusetts&ndash;Boston
+p1961
+aVUniversity of Massachusetts&ndash;Dartmouth
+p1962
+aVUniversity of Massachusetts&ndash;Lowell
+p1963
+aVUniversity of Massachusetts Medical School at Worcester
+p1964
+aVUniversity of Massachusetts System
+p1965
+aVUniversity of Medicine &amp; Dentistry of New Jersey
+p1966
+aVUniversity of Memphis
+p1967
+aVUniversity of Miami
+p1968
+aVUniversity of Michigan
+p1969
+aVUniversity of Michigan&ndash;Dearborn
+p1970
+aVUniversity of Michigan&ndash;Flint
+p1971
+aVUniversity of Minnesota&ndash;Crookston
+p1972
+aVUniversity of Minnesota&ndash;Duluth
+p1973
+aVUniversity of Minnesota&ndash;Morris
+p1974
+aVUniversity of Minnesota&ndash;Twin Cities
+p1975
+aVUniversity of Mississippi
+p1976
+aVUniversity of Mississippi Medical Center
+p1977
+aVUniversity of Missouri
+p1978
+aVUniversity of Missouri&ndash;Kansas City
+p1979
+aVUniversity of Missouri&ndash;Saint Louis
+p1980
+aVUniversity of Missouri System
+p1981
+aVUniversity of Mobile
+p1982
+aVUniversity of Montana&ndash;Missoula
+p1983
+aVUniversity of Montana&ndash;Western
+p1984
+aVUniversity of Montevallo
+p1985
+aVUniversity of Mount Union
+p1986
+aVUniversity of Nebraska&ndash;Kearney
+p1987
+aVUniversity of Nebraska&ndash;Lincoln
+p1988
+aVUniversity of Nebraska Medical Center
+p1989
+aVUniversity of Nebraska&ndash;Omaha
+p1990
+aVUniversity of Nebraska System
+p1991
+aVUniversity of Nevada&ndash;Las Vegas
+p1992
+aVUniversity of Nevada&ndash;Reno
+p1993
+aVUniversity of New England
+p1994
+aVUniversity of New Hampshire
+p1995
+aVUniversity of New Hampshire at Manchester
+p1996
+aVUniversity of New Hampshire School of Law
+p1997
+aVUniversity of New Haven
+p1998
+aVUniversity of New Mexico
+p1999
+aVUniversity of New Orleans
+p2000
+aVUniversity of North Alabama
+p2001
+aVUniversity of North Carolina&ndash;Asheville
+p2002
+aVUniversity of North Carolina&ndash;Chapel Hill
+p2003
+aVUniversity of North Carolina&ndash;Charlotte
+p2004
+aVUniversity of North Carolina&ndash;Greensboro
+p2005
+aVUniversity of North Carolina&ndash;Pembroke
+p2006
+aVUniversity of North Carolina&ndash;School of the Arts
+p2007
+aVUniversity of North Carolina&ndash;Wilmington
+p2008
+aVUniversity of North Dakota
+p2009
+aVUniversity of North Florida
+p2010
+aVUniversity of North Georgia
+p2011
+aVUniversity of North Texas
+p2012
+aVUniversity of North Texas Health Science Center
+p2013
+aVUniversity of Northern Colorado
+p2014
+aVUniversity of Northern Iowa
+p2015
+aVUniversity of Northwestern Ohio
+p2016
+aVUniversity of Northwestern&ndash;Saint Paul
+p2017
+aVUniversity of Notre Dame
+p2018
+aVUniversity of Oklahoma
+p2019
+aVUniversity of Oklahoma Health Sciences Center
+p2020
+aVUniversity of Oklahoma&ndash;Tulsa
+p2021
+aVUniversity of Oregon
+p2022
+aVUniversity of the Ozarks
+p2023
+aVValdosta State University
+p2024
+aVValencia College
+p2025
+aVValley City State University
+p2026
+aVValley Forge Christian College
+p2027
+aVValparaiso University
+p2028
+aVVanderbilt University
+p2029
+aVVanderCook College of Music
+p2030
+aVVanguard University of Southern California
+p2031
+aVVassar College
+p2032
+aVVaughn College of Aeronautics &amp; Technology
+p2033
+aVVermont College of Fine Arts
+p2034
+aVVermont Law School
+p2035
+aVVermont Technical College
+p2036
+aVVictory University
+p2037
+aVVilla Maria College
+p2038
+aVVillanova University
+p2039
+aVVincennes University
+p2040
+aVVirginia Commonwealth University
+p2041
+aVVirginia Intermont College
+p2042
+aVVirginia Military Institute
+p2043
+aVVirginia Polytechnic Institute &amp; State University
+p2044
+aVVirginia State University
+p2045
+aVVirginia Union University
+p2046
+aVVirginia Wesleyan College
+p2047
+aVViterbo University
+p2048
+aVVoorhees College
+p2049
+aVWabash College
+p2050
+aVWade College
+p2051
+aVWagner College
+p2052
+aVWake Forest University
+p2053
+aVWalden University
+p2054
+aVWalla Walla University
+p2055
+aVWalsh College
+p2056
+aVWalsh University
+p2057
+aVWarner Pacific College
+p2058
+aVWarner University
+p2059
+aVWarren Wilson College
+p2060
+aVWartburg College
+p2061
+aVWartburg Theological Seminary
+p2062
+aVWashburn University
+p2063
+aVWashington &amp; Jefferson College
+p2064
+aVWashington &amp; Lee University
+p2065
+aVWashington Adventist University
+p2066
+aVWashington Bible College/Capital Bible Seminary
+p2067
+aVWashington College
+p2068
+aVWashington State University
+p2069
+aVWashington State University&ndash;Spokane
+p2070
+aVWashington State University&ndash;Tri-Cities
+p2071
+aVWashington State University&ndash;Vancouver
+p2072
+aVWashington Theological Union
+p2073
+aVWashington University in Saint Louis
+p2074
+aVWatkins College of Art, Design, &amp; Film
+p2075
+aVWayland Baptist University
+p2076
+aVWayne State College
+p2077
+aVWayne State University
+p2078
+aVWaynesburg University
+p2079
+aVWebb Institute
+p2080
+aVWebber International University
+p2081
+aVWeber State University
+p2082
+aVWebster University
+p2083
+aVWelch College
+p2084
+aVWellesley College
+p2085
+aVWells College
+p2086
+aVWentworth Institute of Technology
+p2087
+aVWesley College
+p2088
+aVWesley Theological Seminary
+p2089
+aVWesleyan College
+p2090
+aVWesleyan University
+p2091
+aVWest Chester University of Pennsylvania
+p2092
+aVWest Liberty University
+p2093
+aVWest Texas A&amp;M University
+p2094
+aVWest Virginia State University
+p2095
+aVWest Virginia University
+p2096
+aVWest Virginia University Institute of Technology
+p2097
+aVWest Virginia University at Parkersburg
+p2098
+aVWest Virginia Wesleyan College
+p2099
+aVWestern Carolina University
+p2100
+aVWestern Connecticut State University
+p2101
+aVWestern Governors University
+p2102
+aVWestern Governors University&ndash;Indiana
+p2103
+aVWestern Governors University&ndash;Missouri
+p2104
+aVWestern Governors University&ndash;Tennessee
+p2105
+aVWestern Governors University&ndash;Texas
+p2106
+aVWestern Governors University&ndash;Washington
+p2107
+aVWestern Illinois University
+p2108
+aVWestern International University
+p2109
+aVWestern Kentucky University
+p2110
+aVWestern Michigan University
+p2111
+aVWestern Nevada College
+p2112
+aVWestern New England University
+p2113
+aVWestern New Mexico University
+p2114
+aVWestern Oregon University
+p2115
+aVWestern Seminary
+p2116
+aVWestern State Colorado University
+p2117
+aVWestern State University College of Law
+p2118
+aVWestern University of Health Sciences
+p2119
+aVWestern Washington University
+p2120
+aVWestfield State University
+p2121
+aVWestminster College
+p2122
+aVWestminster College
+p2123
+aVWestminster College
+p2124
+aVWestminster Theological Seminary
+p2125
+aVWestminster Seminary California
+p2126
+aVWestmont College
+p2127
+aVWheaton College
+p2128
+aVWheaton College
+p2129
+aVWheeling Jesuit University
+p2130
+aVWheelock College
+p2131
+aVWhitman College
+p2132
+aVWhittier College
+p2133
+aVWhitworth University
+p2134
+aVWichita State University
+p2135
+aVWidener University
+p2136
+aVWilberforce University
+p2137
+aVWiley College
+p2138
+aVWilkes University
+p2139
+aVWillamette University
+p2140
+aVWilliam Carey University
+p2141
+aVWilliam Jessup University
+p2142
+aVWilliam Jewell College
+p2143
+aVWilliam Penn University
+p2144
+aVWilliam Paterson University
+p2145
+aVWilliam Woods University
+p2146
+aVWilliams Baptist College
+p2147
+aVWilliams College
+p2148
+aVWilmington University
+p2149
+aVWilmington College
+p2150
+aVWilson College
+p2151
+aVWingate University
+p2152
+aVWinona State University
+p2153
+aVWinston-Salem State University
+p2154
+aVWinthrop University
+p2155
+aVWisconsin Lutheran College
+p2156
+aVWisconsin School of Professional Psychology
+p2157
+aVWittenberg University
+p2158
+aVWofford College
+p2159
+aVWon Institute of Graduate Studies
+p2160
+aVWoodbury University
+p2161
+aVWoods Hole Oceanographic Institution
+p2162
+aVWorcester Polytechnic Institute
+p2163
+aVWorcester State University
+p2164
+aVThe Wright Institute
+p2165
+aVWright State University
+p2166
+a.

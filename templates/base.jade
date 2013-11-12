@@ -8,41 +8,19 @@ html
         title Antchatter >> The new Generation
         link(rel='stylesheet', href='#{staticRoot}css/bootstrap.min.css') 
         link(rel='stylesheet', href='#{staticRoot}css/antchatter.css') 
-        link(rel='icon', href='favicon.ico', type='image/x-icon')
+        link(rel='icon', href='#{staticRoot}imgs/favicon.ico', type='image/x-icon')
         link(href='http://fonts.googleapis.com/css?family=Open+Sans', rel='stylesheet', type='text/css')
         style(type='text/css').
             p { font-family: 'Open Sans', sans-serif; }
             h1, h2, h3, input, div { font-family: 'Open Sans', sans-serif; }
-    body
-        .container
-            .row
-                .col-sm-6.col-md-4.col-md-offset-4
-                    // 
-                        h1.text-center.login-title Sign in to continue to Bootsnipp
-                    .account-wall
-                        //  
-                            img.profile-img(src='', alt='')                 
-                        h1.text-center.login-title(style='font-size:28px')
-                            | Ant
-                            u Chatter
-                        form.form-signin
-                            input.form-control(type='text', placeholder='First Name', required='required', autofocus='autofocus')
-                            input.form-control(type='text', placeholder='Last Name', required='required')
-                            button.btn.btn-lg.btn-primary.btn-block(type='submit' style='margin-top:15px')
-                                | Join!
-                            label.checkbox.pull-left
-                                input(type='checkbox', value='remember-me')
-                                | Remember me
-                            // a.pull-right.need-help(href='#') Need help?
-                            span.clearfix
-                    .text-center.new-account(href='#') No passwords, no hassle
-
+        block styles
+    block body
         script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
         script(src='/socket.io/socket.io.js')
         script(src='#{staticRoot}js/bootstrap.min.js')
         script(src='#{staticRoot}js/chat.js') 
+        block scripts
         //- Google Analytics: change UA-XXXXX-X to be your site's ID.
-        //-
         script.
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
             function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -51,18 +29,3 @@ html
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-XXXXX-X');ga('send','pageview');
 
-    //
-        html
-            head
-                title= "Real time web chat"
-                script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
-                script(src='/js/chat.js')
-                script(src='/socket.io/socket.io.js')
-            body
-                #content(style='width: 500px; height: 300px; margin: 0 0 20px 0; border: solid 1px #999; overflow-y: scroll;')
-                .controls
-                    | Name: 
-                    input#name(style='width:350px;')
-                    br
-                    input#field(style='width:350px;')
-                    input#send(type='button', value='send')
