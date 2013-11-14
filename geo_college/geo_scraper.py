@@ -36,7 +36,8 @@ str_dat = str(codecs.open(NAMES_FILE, 'r', 'utf8').read())
 college_names = pickle.loads(str_dat)
 print 'We still have', len(college_names), 'colleges'
 cnt = 0
-for name in college_names[:900]:
+
+for name in college_names[2000:]:
     # json keypath:
     #   univ name: results -> address_components -> short_name
     #   geo_range: results -> geometry -> viewport
@@ -50,7 +51,14 @@ for name in college_names[:900]:
         # "northeast" and "southwest", "lng" and "lat"s.
         dd['loc_range'] = json['results'][0]['geometry']['viewport']
         dd['loc_exact'] = json['results'][0]['geometry']['location']
-        geo_json.append(dd)
+        try:
+            dd['univ_name'] = dd['univ_name'].decode('utf8', errors='ignore')
+            #dd['loc_range'] = dd['loc_range'].decode('utf8', errors='ignore')
+            #dd['loc_exact'] = dd['loc_exact'].decode('utf8', errors='ignore')
+            geo_json.append(dd)
+        except ValueError, e:
+            print 'ERR ON', str(e), 'for', name
+
     except Exception, e:
         print 'failed at', name, 'because', str(e), 'count', cnt
     cnt += 1
@@ -58,5 +66,3 @@ for name in college_names[:900]:
 pickle.dump(geo_json, codecs.open(GEO_FILE, 'w', 'utf8'))
 
 print 'all', cnt, 'geocodes have been dumped'
-# print geo_json
-# print geo_json[0]['loc_range']

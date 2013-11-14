@@ -1,0 +1,41 @@
+failed at American Indian College of the Assemblies of God because list index out of range count 43
+failed at Aquinas Institute of Theology because list index out of range count 70
+failed at Associated Mennonite Biblical Seminary because list index out of range count 97
+failed at D&#180;Youville College because list index out of range count 173
+ERR ON 'ascii' codec can't encode character u'\xfa' in position 9: ordinal not in range(128) for Escuela de Artes Pl&aacute;sticas de Puerto Rico
+failed at Frank Lloyd Wright School of Architecture because list index out of range count 265
+failed at Future Generations Graduate School because list index out of range count 278
+failed at Institute for Clinical Social Work because list index out of range count 64
+failed at Irell &amp; Manella Graduate School of Biological Sciences because list index out of range count 72
+failed at Jones International University because list index out of range count 92
+failed at Lincoln Memorial University because list index out of range count 143
+failed at Lyme Academy College of Fine Arts because list index out of range count 187
+failed at National Graduate School of Quality Management because list index out of range count 196
+failed at National Intelligence University because list index out of range count 198
+failed at Northern Baptist Theological Seminary because list index out of range count 255
+failed at Pardee RAND Graduate School because list index out of range count 293
+failed at Pentecostal Theological Seminary because list index out of range count 329
+failed at Phillips Theological Seminary because list index out of range count 337
+failed at Pontificia Universidad Cat&oacute;lica de Puerto Rico because list index out of range count 351
+failed at San Juan Bautista School of Medicine because list index out of range count 461
+failed at Seminario Evang&eacute;lico de Puerto Rico because list index out of range count 477
+ERR ON 'ascii' codec can't encode character u'\xe9' in position 30: ordinal not in range(128) for Sistema Universitario Ana G. M&eacute;ndez
+failed at Maritime College at Fort Schuyler because list index out of range count 0
+failed at University of Puerto Rico System because list index out of range count 38
+failed at University of St.&#160;Francis because list index out of range count 47
+failed at University of Wisconsin&ndash;La&#160;Crosse because list index out of range count 116
+failed at Berklee College of Music because list index out of range count 183
+failed at Keck Graduate Institute of Applied Life Sciences because list index out of range count 365
+failed at Curtis Institute of Music because list index out of range count 477
+failed at Rocky Mountain College of Art &amp; Design because list index out of range count 827
+failed at TCM International Institute because list index out of range count 847
+failed at United States Army War College because list index out of range count 927
+ERR ON 'ascii' codec can't encode character u'\xf3' in position 28: ordinal not in range(128) for Universidad Central de Bayam&oacute;n
+ERR ON 'ascii' codec can't encode character u'\xf3' in position 29: ordinal not in range(128) for Universidad del Sagrado Coraz&oacute;n
+failed at Barranquitas Campus because list index out of range count 945
+failed at San Germ&aacute;n Campus because list index out of range count 951
+failed at Universidad Politecnica de Puerto Rico because list index out of range count 954
+failed at University of Alaska System because list index out of range count 968
+failed at University of Maine School of Law because list index out of range count 1049
+failed at Wartburg Theological Seminary because list index out of range count 61
+failed at Western State University College of Law because list index out of range count 117

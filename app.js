@@ -5,12 +5,15 @@
 var settings = require('./settings');
 var express = require('express');
 var app = express();
+var http = require('http');
 
 var mongoose = require('mongoose');
 var session = require('./controllers/sessions');
 var messages = require('./controllers/messages');
 var UserModel = require('./models').UserModel;
 var RoomModel = require('./models').RoomModel;
+
+http.globalAgent.maxSockets = 40;
 
 // Set template root & jade engine.
 app.set('views', __dirname + '/templates');
